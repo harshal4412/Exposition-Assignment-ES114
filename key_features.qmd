@@ -30,7 +30,7 @@ Unlike traditional visualization tools that require JavaScript (like D3.js), Flo
 ✅ **Generate compelling visuals in just a few clicks**.  
 
 <div class="border shadow-lg rounded p-3 bg-light">
-  <img src="images/edit.png" class="img-fluid rounded border">
+  <img src="images/Edit.png" class="img-fluid rounded border">
 </div>
 
 ## 🎭 3. Data-Driven Storytelling  

@@ -1,0 +1,47 @@
+---
+title: "References & Further Reading"
+author: "Harshal Kundnalal Rana, Neev Bharatkumar Patel, Dev Kaushik Panchal"
+date: today
+categories: [Flourish, Data Visualization]
+format:
+  html:
+    theme: vapor
+---
+
+# 📚 References & Further Reading
+
+<p class="lead">Below are some valuable resources that were referenced throughout this project, including datasets and official documentation.</p>
+
+---
+
+## 🔗 Official Documentation & Tutorials
+
+- [Flourish Official Documentation](https://help.flourish.studio/)
+- [Flourish YouTube Channel](https://www.youtube.com/c/FlourishDataViz)
+- [Data Visualization Best Practices](https://www.datawrapper.de/blog/)
+- [Interactive Storytelling with Data](https://www.storybench.org/category/dataviz/)
+
+---
+
+## 📊 Datasets Used
+
+The following datasets were sourced from Kaggle and other open data platforms for demonstrating Flourish's capabilities:
+
+1. **[Dataset Placeholder 1]** – [Source Placeholder]
+2. **[Dataset Placeholder 2]** – [Source Placeholder]
+3. **[Dataset Placeholder 3]** – [Source Placeholder]
+4. **[Dataset Placeholder 4]** – [Source Placeholder]
+5. **[Dataset Placeholder 5]** – [Source Placeholder]
+6. **[Dataset Placeholder 6]** – [Source Placeholder]
+7. **[Dataset Placeholder 7]** – [Source Placeholder]
+8. **[Dataset Placeholder 8]** – [Source Placeholder]
+
+---
+
+## 🙏 Acknowledgment
+
+We extend our sincere gratitude to **Professor Nipun Batra** for his guidance throughout the project and to our **Teaching Assistant Dewansh Chandel** for his valuable support and feedback.
+
+This project would not have been possible without the open datasets and tools along with the guidance of Prof. Nipun Batra and TA Dewansh Chandel that enabled us to explore data visualization with Flourish.
+
+---

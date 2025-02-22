@@ -1,0 +1,73 @@
+---
+title: "Installation & Setup of Flourish"
+author: "Harshal Kundanlal Rana, Neev Bharatkumar Patel, Dev Kaushik Panchal"
+date: today
+categories: [Flourish, Data Visualization]
+format:
+  html:
+    theme: vapor
+---
+
+# ⚙️ <span class="text-primary">Installation & Setup of <strong>Flourish</strong></span>  
+
+Flourish is a <strong class="text-info">web-based tool</strong>, meaning <span class="text-warning">no installation is required</span>. However, setting up an account and getting started involves a few simple steps.
+
+---
+
+## 🔧 <span class="text-danger">Step 1: Create a Flourish Account</span>  
+
+<div class="border p-3 shadow-lg bg-dark text-light rounded">
+  <ol>
+    <li>🌐 <strong>Visit the official website:</strong> <a href="https://flourish.studio/" target="_blank" class="text-info">Flourish.studio</a></li>
+    <li>🔑 Click on <strong>Sign Up</strong> and enter your details.</li>
+    <li>📜 Choose a <span class="text-warning">Free or Pro Plan</span> based on your requirements.</li>
+    <li>✅ Verify your email and log in.</li>
+  </ol>
+</div>
+
+---
+
+## 📂 <span class="text-success">Step 2: Upload Your Data</span>  
+
+<div class="border border-success p-3 rounded bg-light shadow">
+  <ul>
+    <li>🆕 Click on <strong class="text-primary">New Visualization</strong> in your dashboard.</li>
+    <li>📊 Choose a <span class="text-danger">template</span> that best fits your data.</li>
+    <li>📥 Click on <span class="text-info">Upload Data</span> and add your CSV or Excel file.</li>
+    <li>📌 Map your <span class="text-warning">columns to chart elements</span> for proper visualization.</li>
+  </ul>
+</div>
+
+---
+
+## 🎨 <span class="text-info">Step 3: Explore Templates</span>  
+
+Flourish provides a variety of **pre-built templates** for different visualizations.
+
+<div class="border shadow-lg rounded p-3 bg-light text-center">
+  <img src="images/rangeoftemp.png" class="img-fluid rounded border" alt="Flourish Templates Preview">
+  <p class="text-muted">Explore a wide range of templates to suit your data visualization needs.</p>
+  <a href="https://app.flourish.studio/templates" target="_blank" class="btn btn-primary btn-lg">
+    Visit Flourish Templates
+  </a>
+</div>
+
+---
+
+## 📤 <span class="text-warning">Step 4: Publish & Share</span>  
+
+<div class="border p-3 rounded shadow bg-dark text-light">
+  <ul>
+    <li>🎨 Customize your visualization with <span class="text-info">colors, labels, and interactions</span>.</li>
+    <li>🚀 Click <strong class="text-success">Publish</strong> to generate a public or private link.</li>
+    <li>📎 Copy the <span class="text-primary">embed code</span> to use on websites or presentations.</li>
+  </ul>
+</div>
+
+---
+
+Flourish makes <span class="text-success">data visualization accessible</span> to everyone with its **user-friendly, no-code approach**.  
+Now that you’ve set up Flourish, you’re ready to create **stunning, interactive charts!** 🚀  
+
+➡️ <span class="text-info">**Next: Learn about Flourish's Key Features!**</span>  
+<a href="key_features.qmd" class="btn btn-primary btn-lg">Check out the Key Features</a>

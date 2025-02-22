@@ -1,0 +1,105 @@
+---
+title: "Introduction to Flourish"
+author: "Harshal Kundanlal Rana, Neev Bharatkumar Patel, Dev Kaushik Panchal"
+date: today
+categories: [Flourish, Data Visualization]
+format:
+  html:
+    theme: vapor
+---
+
+# 🚀 <span class="text-primary">Introduction to <strong>Flourish.studio</strong></span>  
+
+<p class="lead">  
+  <strong>Flourish</strong> is an <span class="text-info">advanced no-code platform</span> designed for creating  
+  <span class="text-warning">interactive and dynamic data visualizations</span>. It allows users to transform raw data into  
+  <span class="text-success">stunning visual stories</span> without requiring programming skills.  
+</p>  
+
+---
+
+## 🌟 <span class="text-danger">Key Features</span>  
+
+<div class="border p-3 shadow-lg bg-dark text-light rounded">
+  <ul>
+    <li><strong class="text-info">Easy-to-use Interface</strong> – Upload datasets and instantly generate interactive charts, maps, and infographics.</li>
+    <li><strong class="text-warning">Customization</strong> – Modify colors, labels, and animations to match your brand or presentation style.</li>
+    <li><strong class="text-success">Data-Driven Storytelling</strong> – Combine multiple visualizations into seamless, engaging stories.</li>
+    <li><strong class="text-primary">Embeddable & Shareable</strong> – Export visualizations for web use or share them via interactive links.</li>
+    <li><strong class="text-danger">Templates & Themes</strong> – A variety of <em class="text-info">pre-built templates</em> make designing effortless.</li>
+  </ul>
+</div>
+
+---
+
+## 🎯 <span class="text-warning">Why Use Flourish?</span>  
+
+<p class="lead">
+  Flourish is widely used by <span class="text-success">journalists, researchers, educators, and businesses</span>  
+  for <strong class="text-primary">data-driven decision-making</strong>.  
+</p>
+
+<div class="border p-3 shadow-lg bg-dark text-light rounded">
+  Whether you're analyzing <span class="text-danger">climate trends</span>,  
+  <span class="text-info">financial reports</span>, or <span class="text-warning">social media metrics</span>,  
+  Flourish helps visualize complex information in an intuitive way.
+</div>
+
+
+
+---
+
+## 📊 <span class="text-info">Transforming Raw Data into Insights</span>  
+
+With Flourish, users can:  
+
+✅ <span class="text-primary"><strong>Upload structured data</strong></span> (CSV, Excel, or Google Sheets).  
+✅ <span class="text-success"><strong>Map data to chart elements</strong></span> for visual representation.  
+✅ <span class="text-warning"><strong>Animate changes over time</strong></span> to create engaging narratives.  
+✅ <span class="text-danger"><strong>Embed dashboards</strong></span> into websites or presentations.  
+
+---
+
+<div class="border p-3 rounded shadow bg-dark text-light">
+  <p class="lead">
+    Flourish revolutionizes how we <span class="text-info">communicate insights</span>,  
+    making data not just <span class="text-success">informative</span> but also <span class="text-warning">visually compelling</span>.  
+    In the following sections, we will explore <strong class="text-danger">how to use Flourish effectively</strong>  
+    and unlock its full potential!
+  </p>
+</div>
+
+---
+
+## 🖼️ <span class="text-info">Flourish User Interface</span>  
+
+<p class="lead">This is how the <strong class="text-primary">Flourish dashboard</strong> looks:</p>  
+
+<div class="border shadow-lg rounded p-3 bg-light">
+  <img src="images\showreel-poster-mobile.jpg" class="img-fluid rounded border">
+</div>
+
+---
+
+## 📊 <span class="text-warning">Creating a Visualization</span>  
+
+To create a visualization in Flourish, follow these steps:  
+
+<ol class="list-group list-group-numbered">
+  <li class="list-group-item">📂 <strong>Upload your dataset</strong> – Provide structured data in CSV or Excel format.</li>
+  <li class="list-group-item">📊 <strong>Choose a chart type</strong> – Select from bar charts, scatter plots, maps, and more.</li>
+  <li class="list-group-item">🎨 <strong>Customize the design</strong> – Adjust colors, labels, and interactivity options.</li>
+  <li class="list-group-item">📤 <strong>Publish and share</strong> – Embed your visualizations in websites or presentations.</li>
+</ol>
+
+Here’s an example of a chart being created:  
+
+<div class="border shadow-lg rounded p-3 bg-light">
+  <img src="images/edit.png" class="img-fluid rounded border">
+</div>
+
+---
+
+➡️ <span class="text-success">**Next: Learn about Flourish's Key Features!**</span>  
+<a href="key_features.qmd" class="btn btn-primary btn-lg">Check out the Key Features</a>
+

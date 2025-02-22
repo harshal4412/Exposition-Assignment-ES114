@@ -1,0 +1,86 @@
+---
+title: "Use Cases in Academic Settings"
+author: "Harshal Kundanlal Rana, Neev Bharatkumar Patel, Dev Kaushik Panchal"
+date: today
+categories: [Flourish, Academic Use Cases]
+format:
+  html:
+    theme: vapor
+---
+
+# 🎓 <span class="text-primary">Use Cases in <strong>Academic Settings</strong></span>  
+
+<p class="lead">  
+  <strong>Flourish</strong> is widely used in academia for <span class="text-info">data analysis, research visualization, and storytelling</span>. Here are some practical applications:  
+</p>  
+
+---
+
+## 📊 <span class="text-danger">Research Data Visualization</span>  
+
+<div class="border p-3 shadow-lg bg-dark text-light rounded">
+  <ul>
+    <li><strong class="text-info">Statistical Findings</strong> – Present research data using interactive charts.</li>
+    <li><strong class="text-warning">Survey Analysis</strong> – Visualize survey responses with bar charts, heatmaps, and word clouds.</li>
+    <li><strong class="text-success">Longitudinal Studies</strong> – Showcase changes over time with animated race charts.</li>
+  </ul>
+</div>
+
+---
+
+## 🗺️ <span class="text-warning">Geographic & Environmental Studies</span>  
+
+<p class="lead">Flourish provides <span class="text-primary">map-based visualizations</span> that are helpful for:</p>
+
+<div class="border p-3 rounded shadow bg-dark text-light">
+  <ul>
+    <li><strong class="text-danger">Climate Change Analysis</strong> – Use choropleth maps to track environmental data.</li>
+    <li><strong class="text-info">Population Density Mapping</strong> – Analyze demographic trends.</li>
+    <li><strong class="text-warning">Deforestation Tracking</strong> – Monitor forest loss with geospatial data.</li>
+  </ul>
+</div>
+
+---
+
+## 📖 <span class="text-success">Teaching & Lectures</span>  
+
+<div class="border p-3 rounded shadow bg-dark text-light">
+  <ul>
+    <li><strong class="text-info">Historical Event Timelines</strong> – Create interactive history lessons.</li>
+    <li><strong class="text-warning">Mathematical Concept Demonstrations</strong> – Explain equations with dynamic graphs.</li>
+    <li><strong class="text-success">Economics Charts</strong> – Visualize financial trends for better understanding.</li>
+  </ul>
+</div>
+
+---
+
+## 🏫 <span class="text-primary">Student Projects & Presentations</span>  
+
+<p class="lead">
+  Students can integrate <strong class="text-warning">Flourish</strong> into their academic work for:  
+</p>
+
+<ul class="list-group list-group-numbered">
+  <li class="list-group-item">🎓 <strong>Capstone Projects</strong> – Use data-driven storytelling for final-year research.</li>
+  <li class="list-group-item">📜 <strong>Research Papers</strong> – Embed dynamic visuals as evidence.</li>
+  <li class="list-group-item">🏆 <strong>Academic Competitions</strong> – Enhance presentations with engaging charts.</li>
+</ul>
+
+---
+
+## 📚 <span class="text-danger">Digital Humanities & Social Sciences</span>  
+
+<p class="lead">Flourish helps researchers in social sciences by:</p>
+
+<div class="border p-3 rounded shadow bg-dark text-light">
+  <ul>
+    <li><strong class="text-info">Analyzing Literary Trends</strong> – Use word clouds and text analysis tools.</li>
+    <li><strong class="text-warning">Tracking Social Movements</strong> – Visualize historical and modern activism.</li>
+    <li><strong class="text-success">Cultural Data Mapping</strong> – Explore relationships between demographics and cultural shifts.</li>
+  </ul>
+</div>
+
+---
+
+➡️ <span class="text-success">**Next: Learn about Installation & Setup!**</span>  
+<a href="installation.qmd" class="btn btn-primary btn-lg">Check out the Installation Guide</a>

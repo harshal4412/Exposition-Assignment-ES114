@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - images/
+
+
+website:
+  title: "Exposition Assignment - ES114"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: installation.qmd
+        text: Installation Guide      
+      - href: key_features.qmd
+        text: Key Features
+      - href: use.qmd
+        text: Use Cases
+      - href: references.qmd
+        text: References & Acknowledgements
+      - href: conclusion.qmd
+        text: Final Remarks
+  page-footer: "© J043"
+
+format:
+  html:
+    theme: vapor
+    css: styles.scss   # Optional custom styling
+
+
+

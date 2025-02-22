@@ -95,7 +95,7 @@ To create a visualization in Flourish, follow these steps:
 Here’s an example of a chart being created:  
 
 <div class="border shadow-lg rounded p-3 bg-light">
-  <img src="images/edit.png" class="img-fluid rounded border">
+  <img src="images/Edit.png" class="img-fluid rounded border">
 </div>
 
 ---

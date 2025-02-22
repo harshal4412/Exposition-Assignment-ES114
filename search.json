@@ -1,0 +1,247 @@
+[
+  {
+    "objectID": "use.html",
+    "href": "use.html",
+    "title": "Use Cases in Academic Settings",
+    "section": "",
+    "text": "Flourish is widely used in academia for data analysis, research visualization, and storytelling. Here are some practical applications:\n\n\n\n\n\n\n\nStatistical Findings – Present research data using interactive charts.\n\n\nSurvey Analysis – Visualize survey responses with bar charts, heatmaps, and word clouds.\n\n\nLongitudinal Studies – Showcase changes over time with animated race charts.\n\n\n\n\n\n\n\n\nFlourish provides map-based visualizations that are helpful for:\n\n\n\n\nClimate Change Analysis – Use choropleth maps to track environmental data.\n\n\nPopulation Density Mapping – Analyze demographic trends.\n\n\nDeforestation Tracking – Monitor forest loss with geospatial data.\n\n\n\n\n\n\n\n\n\n\nHistorical Event Timelines – Create interactive history lessons.\n\n\nMathematical Concept Demonstrations – Explain equations with dynamic graphs.\n\n\nEconomics Charts – Visualize financial trends for better understanding.\n\n\n\n\n\n\n\n\nStudents can integrate Flourish into their academic work for:\n\n\n\n🎓 Capstone Projects – Use data-driven storytelling for final-year research.\n\n\n📜 Research Papers – Embed dynamic visuals as evidence.\n\n\n🏆 Academic Competitions – Enhance presentations with engaging charts.\n\n\n\n\n\n\n\nFlourish helps researchers in social sciences by:\n\n\n\n\nAnalyzing Literary Trends – Use word clouds and text analysis tools.\n\n\nTracking Social Movements – Visualize historical and modern activism.\n\n\nCultural Data Mapping – Explore relationships between demographics and cultural shifts.\n\n\n\n\n➡️ Next: Learn about Installation & Setup!\nCheck out the Installation Guide"
+  },
+  {
+    "objectID": "use.html#research-data-visualization",
+    "href": "use.html#research-data-visualization",
+    "title": "Use Cases in Academic Settings",
+    "section": "",
+    "text": "Statistical Findings – Present research data using interactive charts.\n\n\nSurvey Analysis – Visualize survey responses with bar charts, heatmaps, and word clouds.\n\n\nLongitudinal Studies – Showcase changes over time with animated race charts."
+  },
+  {
+    "objectID": "use.html#geographic-environmental-studies",
+    "href": "use.html#geographic-environmental-studies",
+    "title": "Use Cases in Academic Settings",
+    "section": "",
+    "text": "Flourish provides map-based visualizations that are helpful for:\n\n\n\n\nClimate Change Analysis – Use choropleth maps to track environmental data.\n\n\nPopulation Density Mapping – Analyze demographic trends.\n\n\nDeforestation Tracking – Monitor forest loss with geospatial data."
+  },
+  {
+    "objectID": "use.html#teaching-lectures",
+    "href": "use.html#teaching-lectures",
+    "title": "Use Cases in Academic Settings",
+    "section": "",
+    "text": "Historical Event Timelines – Create interactive history lessons.\n\n\nMathematical Concept Demonstrations – Explain equations with dynamic graphs.\n\n\nEconomics Charts – Visualize financial trends for better understanding."
+  },
+  {
+    "objectID": "use.html#student-projects-presentations",
+    "href": "use.html#student-projects-presentations",
+    "title": "Use Cases in Academic Settings",
+    "section": "",
+    "text": "Students can integrate Flourish into their academic work for:\n\n\n\n🎓 Capstone Projects – Use data-driven storytelling for final-year research.\n\n\n📜 Research Papers – Embed dynamic visuals as evidence.\n\n\n🏆 Academic Competitions – Enhance presentations with engaging charts."
+  },
+  {
+    "objectID": "use.html#digital-humanities-social-sciences",
+    "href": "use.html#digital-humanities-social-sciences",
+    "title": "Use Cases in Academic Settings",
+    "section": "",
+    "text": "Flourish helps researchers in social sciences by:\n\n\n\n\nAnalyzing Literary Trends – Use word clouds and text analysis tools.\n\n\nTracking Social Movements – Visualize historical and modern activism.\n\n\nCultural Data Mapping – Explore relationships between demographics and cultural shifts.\n\n\n\n\n➡️ Next: Learn about Installation & Setup!\nCheck out the Installation Guide"
+  },
+  {
+    "objectID": "key_features.html",
+    "href": "key_features.html",
+    "title": "Key Features of Flourish",
+    "section": "",
+    "text": "Flourish provides an intuitive and powerful environment for data-driven storytelling. Here are its most significant features:\n\n\nFlourish offers pre-built interactive templates for various chart types, including:\n- Bar charts, line charts, and scatter plots for statistical analysis.\n- Choropleth maps and point maps for geospatial visualizations.\n- Animated race charts for dynamic data representation.\n- Network graphs and hierarchy visualizations for complex relationships.\n\n\n\n\n\n\nUnlike traditional visualization tools that require JavaScript (like D3.js), Flourish allows users to:\n✅ Upload structured data (CSV, Excel, Google Sheets).\n✅ Map columns to chart elements without writing any code.\n✅ Generate compelling visuals in just a few clicks.\n\n\n\n\n\n\nOne of Flourish’s most powerful features is its ability to create narrative-driven visualizations. Users can:\n- Create multi-slide stories that animate changes in data over time.\n- Use interactive filters and buttons to enhance engagement.\n- Combine multiple visualizations into a seamless report.\n\n\n\n\n\n\n\n\n\nFlourish allows extensive customization:\n- Modify colors, labels, and fonts to match brand identity.\n- Add custom tooltips and interactive elements.\n- Use advanced styling options for a professional look.\n\n\n\n\n\n\nFlourish makes it easy to share visualizations:\n✅ Export as high-quality images or PDFs for reports.\n✅ Generate embed codes for websites and blogs.\n✅ Integrate with third-party platforms like WordPress or Google Data Studio.\n\n\n\n\n\n\nFlourish supports live data connections, meaning you can:\n- Link Google Sheets or CSV URLs for real-time updates.\n- Automatically refresh visualizations without re-uploading data.\n- Stream data from APIs (available in the Pro version).\n\n\n\n\nFlourish is a powerful yet simple tool that democratizes data visualization. Whether you’re a journalist, researcher, student, or business analyst, it enables you to present data in an engaging and interactive way.\n\n\nGo back to Introduction"
+  },
+  {
+    "objectID": "key_features.html#wide-range-of-visualization-templates",
+    "href": "key_features.html#wide-range-of-visualization-templates",
+    "title": "Key Features of Flourish",
+    "section": "",
+    "text": "Flourish offers pre-built interactive templates for various chart types, including:\n- Bar charts, line charts, and scatter plots for statistical analysis.\n- Choropleth maps and point maps for geospatial visualizations.\n- Animated race charts for dynamic data representation.\n- Network graphs and hierarchy visualizations for complex relationships."
+  },
+  {
+    "objectID": "key_features.html#no-coding-required",
+    "href": "key_features.html#no-coding-required",
+    "title": "Key Features of Flourish",
+    "section": "",
+    "text": "Unlike traditional visualization tools that require JavaScript (like D3.js), Flourish allows users to:\n✅ Upload structured data (CSV, Excel, Google Sheets).\n✅ Map columns to chart elements without writing any code.\n✅ Generate compelling visuals in just a few clicks."
+  },
+  {
+    "objectID": "key_features.html#data-driven-storytelling",
+    "href": "key_features.html#data-driven-storytelling",
+    "title": "Key Features of Flourish",
+    "section": "",
+    "text": "One of Flourish’s most powerful features is its ability to create narrative-driven visualizations. Users can:\n- Create multi-slide stories that animate changes in data over time.\n- Use interactive filters and buttons to enhance engagement.\n- Combine multiple visualizations into a seamless report."
+  },
+  {
+    "objectID": "key_features.html#customization-branding",
+    "href": "key_features.html#customization-branding",
+    "title": "Key Features of Flourish",
+    "section": "",
+    "text": "Flourish allows extensive customization:\n- Modify colors, labels, and fonts to match brand identity.\n- Add custom tooltips and interactive elements.\n- Use advanced styling options for a professional look."
+  },
+  {
+    "objectID": "key_features.html#embedding-sharing",
+    "href": "key_features.html#embedding-sharing",
+    "title": "Key Features of Flourish",
+    "section": "",
+    "text": "Flourish makes it easy to share visualizations:\n✅ Export as high-quality images or PDFs for reports.\n✅ Generate embed codes for websites and blogs.\n✅ Integrate with third-party platforms like WordPress or Google Data Studio."
+  },
+  {
+    "objectID": "key_features.html#real-time-data-integration",
+    "href": "key_features.html#real-time-data-integration",
+    "title": "Key Features of Flourish",
+    "section": "",
+    "text": "Flourish supports live data connections, meaning you can:\n- Link Google Sheets or CSV URLs for real-time updates.\n- Automatically refresh visualizations without re-uploading data.\n- Stream data from APIs (available in the Pro version).\n\n\n\n\nFlourish is a powerful yet simple tool that democratizes data visualization. Whether you’re a journalist, researcher, student, or business analyst, it enables you to present data in an engaging and interactive way.\n\n\nGo back to Introduction"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Flourish",
+    "section": "",
+    "text": "Flourish is an advanced no-code platform designed for creating\ninteractive and dynamic data visualizations. It allows users to transform raw data into\nstunning visual stories without requiring programming skills.\n\n\n\n\n\n\n\nEasy-to-use Interface – Upload datasets and instantly generate interactive charts, maps, and infographics.\n\n\nCustomization – Modify colors, labels, and animations to match your brand or presentation style.\n\n\nData-Driven Storytelling – Combine multiple visualizations into seamless, engaging stories.\n\n\nEmbeddable & Shareable – Export visualizations for web use or share them via interactive links.\n\n\nTemplates & Themes – A variety of pre-built templates make designing effortless.\n\n\n\n\n\n\n\n\nFlourish is widely used by journalists, researchers, educators, and businesses\nfor data-driven decision-making.\n\n\nWhether you’re analyzing climate trends,\nfinancial reports, or social media metrics,\nFlourish helps visualize complex information in an intuitive way.\n\n\n\n\n\nWith Flourish, users can:\n✅ Upload structured data (CSV, Excel, or Google Sheets).\n✅ Map data to chart elements for visual representation.\n✅ Animate changes over time to create engaging narratives.\n✅ Embed dashboards into websites or presentations.\n\n\n\nFlourish revolutionizes how we communicate insights,\nmaking data not just informative but also visually compelling.\nIn the following sections, we will explore how to use Flourish effectively\nand unlock its full potential!\n\n\n\n\n\n\n\nThis is how the Flourish dashboard looks:\n\n\n\n\n\n\n\n\nTo create a visualization in Flourish, follow these steps:\n\n\n📂 Upload your dataset – Provide structured data in CSV or Excel format.\n\n\n📊 Choose a chart type – Select from bar charts, scatter plots, maps, and more.\n\n\n🎨 Customize the design – Adjust colors, labels, and interactivity options.\n\n\n📤 Publish and share – Embed your visualizations in websites or presentations.\n\n\nHere’s an example of a chart being created:\n\n\n\n\n➡️ Next: Learn about Flourish’s Key Features!\nCheck out the Key Features"
+  },
+  {
+    "objectID": "index.html#key-features",
+    "href": "index.html#key-features",
+    "title": "Introduction to Flourish",
+    "section": "",
+    "text": "Easy-to-use Interface – Upload datasets and instantly generate interactive charts, maps, and infographics.\n\n\nCustomization – Modify colors, labels, and animations to match your brand or presentation style.\n\n\nData-Driven Storytelling – Combine multiple visualizations into seamless, engaging stories.\n\n\nEmbeddable & Shareable – Export visualizations for web use or share them via interactive links.\n\n\nTemplates & Themes – A variety of pre-built templates make designing effortless."
+  },
+  {
+    "objectID": "index.html#why-use-flourish",
+    "href": "index.html#why-use-flourish",
+    "title": "Introduction to Flourish",
+    "section": "",
+    "text": "Flourish is widely used by journalists, researchers, educators, and businesses\nfor data-driven decision-making.\n\n\nWhether you’re analyzing climate trends,\nfinancial reports, or social media metrics,\nFlourish helps visualize complex information in an intuitive way."
+  },
+  {
+    "objectID": "index.html#transforming-raw-data-into-insights",
+    "href": "index.html#transforming-raw-data-into-insights",
+    "title": "Introduction to Flourish",
+    "section": "",
+    "text": "With Flourish, users can:\n✅ Upload structured data (CSV, Excel, or Google Sheets).\n✅ Map data to chart elements for visual representation.\n✅ Animate changes over time to create engaging narratives.\n✅ Embed dashboards into websites or presentations.\n\n\n\nFlourish revolutionizes how we communicate insights,\nmaking data not just informative but also visually compelling.\nIn the following sections, we will explore how to use Flourish effectively\nand unlock its full potential!"
+  },
+  {
+    "objectID": "index.html#flourish-user-interface",
+    "href": "index.html#flourish-user-interface",
+    "title": "Introduction to Flourish",
+    "section": "",
+    "text": "This is how the Flourish dashboard looks:"
+  },
+  {
+    "objectID": "index.html#creating-a-visualization",
+    "href": "index.html#creating-a-visualization",
+    "title": "Introduction to Flourish",
+    "section": "",
+    "text": "To create a visualization in Flourish, follow these steps:\n\n\n📂 Upload your dataset – Provide structured data in CSV or Excel format.\n\n\n📊 Choose a chart type – Select from bar charts, scatter plots, maps, and more.\n\n\n🎨 Customize the design – Adjust colors, labels, and interactivity options.\n\n\n📤 Publish and share – Embed your visualizations in websites or presentations.\n\n\nHere’s an example of a chart being created:\n\n\n\n\n➡️ Next: Learn about Flourish’s Key Features!\nCheck out the Key Features"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "blog.html#quarto",
+    "href": "blog.html#quarto",
+    "title": "blog",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "conclusion.html",
+    "href": "conclusion.html",
+    "title": "Conclusion: The Power of Flourish",
+    "section": "",
+    "text": "Flourish is more than just a data visualization tool—it is a game-changer for interactive and engaging storytelling. Throughout this guide, we explored its key features, applications, and installation process. Now, let’s reflect on why Flourish is an essential platform in the world of data visualization.\n\n\n\n\n\n\n\nSimplicity & Accessibility – No coding required, making it ideal for users of all skill levels.\n\n\nDiverse Visualization Options – From bar charts to complex network graphs, Flourish offers extensive templates.\n\n\nSeamless Interactivity – Enables dynamic storytelling with animations, tooltips, and multi-slide narratives.\n\n\nEmbeddable & Shareable – Easily integrates into websites, reports, and presentations.\n\n\nReal-Time Data Support – Connects with live sources like Google Sheets for up-to-date visualizations.\n\n\n\n\n\n\n\nFlourish plays a crucial role in academia by simplifying the process of data analysis and presentation. Researchers and students can use it to:\n✅ Analyze complex datasets with interactive elements.\n✅ Create engaging reports for projects and publications.\n✅ Visualize trends and patterns for better comprehension.\n✅ Share findings with peers and educators in an impactful manner.\n\n\n\n\nAs data-driven decision-making becomes more prevalent across industries, tools like Flourish will continue to evolve. Whether in journalism, business, or academia, interactive storytelling is shaping the way we consume and interpret information.\n\n\nFlourish is an excellent tool for anyone looking to enhance their data visualization skills. Its intuitive interface, rich feature set, and seamless integration make it a must-have for professionals and students alike.\n\n\n\n\n\nIf you want to dive deeper into Flourish’s potential, visit the official documentation and tutorials:\n➡️ Flourish Official Site\n➡️ Flourish Help Center\n\n\nWe hope this guide has been insightful in helping you unlock the power of Flourish! 🎉"
+  },
+  {
+    "objectID": "conclusion.html#why-flourish-stands-out",
+    "href": "conclusion.html#why-flourish-stands-out",
+    "title": "Conclusion: The Power of Flourish",
+    "section": "",
+    "text": "Simplicity & Accessibility – No coding required, making it ideal for users of all skill levels.\n\n\nDiverse Visualization Options – From bar charts to complex network graphs, Flourish offers extensive templates.\n\n\nSeamless Interactivity – Enables dynamic storytelling with animations, tooltips, and multi-slide narratives.\n\n\nEmbeddable & Shareable – Easily integrates into websites, reports, and presentations.\n\n\nReal-Time Data Support – Connects with live sources like Google Sheets for up-to-date visualizations."
+  },
+  {
+    "objectID": "conclusion.html#impact-on-academic-research",
+    "href": "conclusion.html#impact-on-academic-research",
+    "title": "Conclusion: The Power of Flourish",
+    "section": "",
+    "text": "Flourish plays a crucial role in academia by simplifying the process of data analysis and presentation. Researchers and students can use it to:\n✅ Analyze complex datasets with interactive elements.\n✅ Create engaging reports for projects and publications.\n✅ Visualize trends and patterns for better comprehension.\n✅ Share findings with peers and educators in an impactful manner."
+  },
+  {
+    "objectID": "conclusion.html#the-future-of-data-visualization",
+    "href": "conclusion.html#the-future-of-data-visualization",
+    "title": "Conclusion: The Power of Flourish",
+    "section": "",
+    "text": "As data-driven decision-making becomes more prevalent across industries, tools like Flourish will continue to evolve. Whether in journalism, business, or academia, interactive storytelling is shaping the way we consume and interpret information.\n\n\nFlourish is an excellent tool for anyone looking to enhance their data visualization skills. Its intuitive interface, rich feature set, and seamless integration make it a must-have for professionals and students alike."
+  },
+  {
+    "objectID": "conclusion.html#continue-exploring",
+    "href": "conclusion.html#continue-exploring",
+    "title": "Conclusion: The Power of Flourish",
+    "section": "",
+    "text": "If you want to dive deeper into Flourish’s potential, visit the official documentation and tutorials:\n➡️ Flourish Official Site\n➡️ Flourish Help Center\n\n\nWe hope this guide has been insightful in helping you unlock the power of Flourish! 🎉"
+  },
+  {
+    "objectID": "installation.html",
+    "href": "installation.html",
+    "title": "Installation & Setup of Flourish",
+    "section": "",
+    "text": "Flourish is a web-based tool, meaning no installation is required. However, setting up an account and getting started involves a few simple steps.\n\n\n\n\n\n\n🌐 Visit the official website: Flourish.studio\n\n\n🔑 Click on Sign Up and enter your details.\n\n\n📜 Choose a Free or Pro Plan based on your requirements.\n\n\n✅ Verify your email and log in.\n\n\n\n\n\n\n\n\n\n\n🆕 Click on New Visualization in your dashboard.\n\n\n📊 Choose a template that best fits your data.\n\n\n📥 Click on Upload Data and add your CSV or Excel file.\n\n\n📌 Map your columns to chart elements for proper visualization.\n\n\n\n\n\n\n\nFlourish provides a variety of pre-built templates for different visualizations.\n\n\n\nExplore a wide range of templates to suit your data visualization needs.\n\n Visit Flourish Templates \n\n\n\n\n\n\n\n\n🎨 Customize your visualization with colors, labels, and interactions.\n\n\n🚀 Click Publish to generate a public or private link.\n\n\n📎 Copy the embed code to use on websites or presentations.\n\n\n\n\nFlourish makes data visualization accessible to everyone with its user-friendly, no-code approach.\nNow that you’ve set up Flourish, you’re ready to create stunning, interactive charts! 🚀\n➡️ Next: Learn about Flourish’s Key Features!\nCheck out the Key Features"
+  },
+  {
+    "objectID": "installation.html#step-1-create-a-flourish-account",
+    "href": "installation.html#step-1-create-a-flourish-account",
+    "title": "Installation & Setup of Flourish",
+    "section": "",
+    "text": "🌐 Visit the official website: Flourish.studio\n\n\n🔑 Click on Sign Up and enter your details.\n\n\n📜 Choose a Free or Pro Plan based on your requirements.\n\n\n✅ Verify your email and log in."
+  },
+  {
+    "objectID": "installation.html#step-2-upload-your-data",
+    "href": "installation.html#step-2-upload-your-data",
+    "title": "Installation & Setup of Flourish",
+    "section": "",
+    "text": "🆕 Click on New Visualization in your dashboard.\n\n\n📊 Choose a template that best fits your data.\n\n\n📥 Click on Upload Data and add your CSV or Excel file.\n\n\n📌 Map your columns to chart elements for proper visualization."
+  },
+  {
+    "objectID": "installation.html#step-3-explore-templates",
+    "href": "installation.html#step-3-explore-templates",
+    "title": "Installation & Setup of Flourish",
+    "section": "",
+    "text": "Flourish provides a variety of pre-built templates for different visualizations.\n\n\n\nExplore a wide range of templates to suit your data visualization needs.\n\n Visit Flourish Templates"
+  },
+  {
+    "objectID": "installation.html#step-4-publish-share",
+    "href": "installation.html#step-4-publish-share",
+    "title": "Installation & Setup of Flourish",
+    "section": "",
+    "text": "🎨 Customize your visualization with colors, labels, and interactions.\n\n\n🚀 Click Publish to generate a public or private link.\n\n\n📎 Copy the embed code to use on websites or presentations.\n\n\n\n\nFlourish makes data visualization accessible to everyone with its user-friendly, no-code approach.\nNow that you’ve set up Flourish, you’re ready to create stunning, interactive charts! 🚀\n➡️ Next: Learn about Flourish’s Key Features!\nCheck out the Key Features"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References & Further Reading",
+    "section": "",
+    "text": "Below are some valuable resources that were referenced throughout this project, including datasets and official documentation.\n\n\n\n\n\nFlourish Official Documentation\nFlourish YouTube Channel\nData Visualization Best Practices\nInteractive Storytelling with Data\n\n\n\n\n\nThe following datasets were sourced from Kaggle and other open data platforms for demonstrating Flourish’s capabilities:\n\n[Dataset Placeholder 1] – [Source Placeholder]\n[Dataset Placeholder 2] – [Source Placeholder]\n[Dataset Placeholder 3] – [Source Placeholder]\n[Dataset Placeholder 4] – [Source Placeholder]\n[Dataset Placeholder 5] – [Source Placeholder]\n[Dataset Placeholder 6] – [Source Placeholder]\n[Dataset Placeholder 7] – [Source Placeholder]\n[Dataset Placeholder 8] – [Source Placeholder]\n\n\n\n\n\nWe extend our sincere gratitude to Professor Nipun Batra for his guidance throughout the project and to our Teaching Assistant Dewansh Chandel for his valuable support and feedback.\nThis project would not have been possible without the open datasets and tools along with the guidance of Prof. Nipun Batra and TA Dewansh Chandel that enabled us to explore data visualization with Flourish."
+  },
+  {
+    "objectID": "references.html#official-documentation-tutorials",
+    "href": "references.html#official-documentation-tutorials",
+    "title": "References & Further Reading",
+    "section": "",
+    "text": "Flourish Official Documentation\nFlourish YouTube Channel\nData Visualization Best Practices\nInteractive Storytelling with Data"
+  },
+  {
+    "objectID": "references.html#datasets-used",
+    "href": "references.html#datasets-used",
+    "title": "References & Further Reading",
+    "section": "",
+    "text": "The following datasets were sourced from Kaggle and other open data platforms for demonstrating Flourish’s capabilities:\n\n[Dataset Placeholder 1] – [Source Placeholder]\n[Dataset Placeholder 2] – [Source Placeholder]\n[Dataset Placeholder 3] – [Source Placeholder]\n[Dataset Placeholder 4] – [Source Placeholder]\n[Dataset Placeholder 5] – [Source Placeholder]\n[Dataset Placeholder 6] – [Source Placeholder]\n[Dataset Placeholder 7] – [Source Placeholder]\n[Dataset Placeholder 8] – [Source Placeholder]"
+  },
+  {
+    "objectID": "references.html#acknowledgment",
+    "href": "references.html#acknowledgment",
+    "title": "References & Further Reading",
+    "section": "",
+    "text": "We extend our sincere gratitude to Professor Nipun Batra for his guidance throughout the project and to our Teaching Assistant Dewansh Chandel for his valuable support and feedback.\nThis project would not have been possible without the open datasets and tools along with the guidance of Prof. Nipun Batra and TA Dewansh Chandel that enabled us to explore data visualization with Flourish."
+  }
+]

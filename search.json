@@ -4,7 +4,7 @@
     "href": "use.html",
     "title": "Use Cases in Academic Settings",
     "section": "",
-    "text": "Flourish is widely used in academia for data analysis, research visualization, and storytelling. Here are some practical applications:\n\n\n\n\n\n\n\nStatistical Findings – Present research data using interactive charts.\n\n\nSurvey Analysis – Visualize survey responses with bar charts, heatmaps, and word clouds.\n\n\nLongitudinal Studies – Showcase changes over time with animated race charts.\n\n\n\n\n\n\n\n\nFlourish provides map-based visualizations that are helpful for:\n\n\n\n\nClimate Change Analysis – Use choropleth maps to track environmental data.\n\n\nPopulation Density Mapping – Analyze demographic trends.\n\n\nDeforestation Tracking – Monitor forest loss with geospatial data.\n\n\n\n\n\n\n\n\n\n\nHistorical Event Timelines – Create interactive history lessons.\n\n\nMathematical Concept Demonstrations – Explain equations with dynamic graphs.\n\n\nEconomics Charts – Visualize financial trends for better understanding.\n\n\n\n\n\n\n\n\nStudents can integrate Flourish into their academic work for:\n\n\n\n🎓 Capstone Projects – Use data-driven storytelling for final-year research.\n\n\n📜 Research Papers – Embed dynamic visuals as evidence.\n\n\n🏆 Academic Competitions – Enhance presentations with engaging charts.\n\n\n\n\n\n\n\nFlourish helps researchers in social sciences by:\n\n\n\n\nAnalyzing Literary Trends – Use word clouds and text analysis tools.\n\n\nTracking Social Movements – Visualize historical and modern activism.\n\n\nCultural Data Mapping – Explore relationships between demographics and cultural shifts.\n\n\n\n\n➡️ Next: Learn about Installation & Setup!\nCheck out the Installation Guide"
+    "text": "Flourish is widely used in academia for data analysis, research visualization, and storytelling. Here are some practical applications:\n\n\n\n\n\n\n\nStatistical Findings – Present research data using interactive charts.\n\n\nSurvey Analysis – Visualize survey responses with bar charts, heatmaps, and word clouds.\n\n\nLongitudinal Studies – Showcase changes over time with animated race charts.\n\n\n\n\n\n\n\n\nFlourish provides map-based visualizations that are helpful for:\n\n\n\n\nClimate Change Analysis – Use choropleth maps to track environmental data.\n\n\nPopulation Density Mapping – Analyze demographic trends.\n\n\nDeforestation Tracking – Monitor forest loss with geospatial data.\n\n\n\n\n\n\n\n\n\n\nHistorical Event Timelines – Create interactive history lessons.\n\n\nMathematical Concept Demonstrations – Explain equations with dynamic graphs.\n\n\nEconomics Charts – Visualize financial trends for better understanding.\n\n\n\n\n\n\n\n\nStudents can integrate Flourish into their academic work for:\n\n\n\nCapstone Projects – Use data-driven storytelling for final-year research.\n\n\nResearch Papers – Embed dynamic visuals as evidence.\n\n\nAcademic Competitions – Enhance presentations with engaging charts.\n\n\n\n\n\n\n\nFlourish helps researchers in social sciences by:\n\n\n\n\nAnalyzing Literary Trends – Use word clouds and text analysis tools.\n\n\nTracking Social Movements – Visualize historical and modern activism.\n\n\nCultural Data Mapping – Explore relationships between demographics and cultural shifts.\n\n\n\n\nNext: Learn about Installation & Setup!\nCheck out the Installation Guide"
   },
   {
     "objectID": "use.html#research-data-visualization",
@@ -32,70 +32,413 @@
     "href": "use.html#student-projects-presentations",
     "title": "Use Cases in Academic Settings",
     "section": "",
-    "text": "Students can integrate Flourish into their academic work for:\n\n\n\n🎓 Capstone Projects – Use data-driven storytelling for final-year research.\n\n\n📜 Research Papers – Embed dynamic visuals as evidence.\n\n\n🏆 Academic Competitions – Enhance presentations with engaging charts."
+    "text": "Students can integrate Flourish into their academic work for:\n\n\n\nCapstone Projects – Use data-driven storytelling for final-year research.\n\n\nResearch Papers – Embed dynamic visuals as evidence.\n\n\nAcademic Competitions – Enhance presentations with engaging charts."
   },
   {
     "objectID": "use.html#digital-humanities-social-sciences",
     "href": "use.html#digital-humanities-social-sciences",
     "title": "Use Cases in Academic Settings",
     "section": "",
-    "text": "Flourish helps researchers in social sciences by:\n\n\n\n\nAnalyzing Literary Trends – Use word clouds and text analysis tools.\n\n\nTracking Social Movements – Visualize historical and modern activism.\n\n\nCultural Data Mapping – Explore relationships between demographics and cultural shifts.\n\n\n\n\n➡️ Next: Learn about Installation & Setup!\nCheck out the Installation Guide"
+    "text": "Flourish helps researchers in social sciences by:\n\n\n\n\nAnalyzing Literary Trends – Use word clouds and text analysis tools.\n\n\nTracking Social Movements – Visualize historical and modern activism.\n\n\nCultural Data Mapping – Explore relationships between demographics and cultural shifts.\n\n\n\n\nNext: Learn about Installation & Setup!\nCheck out the Installation Guide"
   },
   {
-    "objectID": "key_features.html",
-    "href": "key_features.html",
-    "title": "Key Features of Flourish",
+    "objectID": "scatter_plot.html",
+    "href": "scatter_plot.html",
+    "title": "Scatter Plot: Advertisement Budget vs Sales",
     "section": "",
-    "text": "Flourish provides an intuitive and powerful environment for data-driven storytelling. Here are its most significant features:\n\n\nFlourish offers pre-built interactive templates for various chart types, including:\n- Bar charts, line charts, and scatter plots for statistical analysis.\n- Choropleth maps and point maps for geospatial visualizations.\n- Animated race charts for dynamic data representation.\n- Network graphs and hierarchy visualizations for complex relationships.\n\n\n\n\n\n\nUnlike traditional visualization tools that require JavaScript (like D3.js), Flourish allows users to:\n✅ Upload structured data (CSV, Excel, Google Sheets).\n✅ Map columns to chart elements without writing any code.\n✅ Generate compelling visuals in just a few clicks.\n\n\n\n\n\n\nOne of Flourish’s most powerful features is its ability to create narrative-driven visualizations. Users can:\n- Create multi-slide stories that animate changes in data over time.\n- Use interactive filters and buttons to enhance engagement.\n- Combine multiple visualizations into a seamless report.\n\n\n\n\n\n\n\n\n\nFlourish allows extensive customization:\n- Modify colors, labels, and fonts to match brand identity.\n- Add custom tooltips and interactive elements.\n- Use advanced styling options for a professional look.\n\n\n\n\n\n\nFlourish makes it easy to share visualizations:\n✅ Export as high-quality images or PDFs for reports.\n✅ Generate embed codes for websites and blogs.\n✅ Integrate with third-party platforms like WordPress or Google Data Studio.\n\n\n\n\n\n\nFlourish supports live data connections, meaning you can:\n- Link Google Sheets or CSV URLs for real-time updates.\n- Automatically refresh visualizations without re-uploading data.\n- Stream data from APIs (available in the Pro version).\n\n\n\n\nFlourish is a powerful yet simple tool that democratizes data visualization. Whether you’re a journalist, researcher, student, or business analyst, it enables you to present data in an engaging and interactive way.\n\n\nGo back to Introduction"
+    "text": "This document provides a step-by-step guide to creating a Scatter Plot to visualize the relationship between advertisement spending and sales performance.\n\n\n\n\n\n\nStep 1\n\n\n\n\nSearch and click on the template of Scatter Plot in Flourish.\n\n\n\n\n\n\n\n\nStep 2\n\n\n\n\nGo to Flourish.\n\n\nCreate a new visualization and select Scatter Plot.\n\n\nUpload the CSV file you downloaded.\n\n\n\n\n\n\n\n\nStep 3\n\n\n\n\nSet Advertisement Budget on the X-axis.\n\n\nSet Sales on the Y-axis.\n\n\nAdjust the scale if necessary.\n\n\n\n\n\n\n\n\nStep 4\n\n\n\n\nChoose a color gradient to represent different sales values.\n\n\nAdd labels and tooltips for better readability.\n\n\nAdjust dot size and transparency for clarity.\n\n\n\n\n\n\n\n\nStep 5\n\n\n\n\nClick “Publish & Export” in Flourish.\n\n\nCopy the Embed URL.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHelps identify correlations between advertisement budget and sales.\n\n\nHighlights outliers and potential trends in the data.\n\n\nUseful for predictive analysis in marketing strategies.\n\n\n\nThis guide provides a structured approach to creating a Scatter Plot that visually represents the impact of advertising on sales."
   },
   {
-    "objectID": "key_features.html#wide-range-of-visualization-templates",
-    "href": "key_features.html#wide-range-of-visualization-templates",
-    "title": "Key Features of Flourish",
+    "objectID": "scatter_plot.html#step-1-open-the-template-of-scatter-plot-in-flourish",
+    "href": "scatter_plot.html#step-1-open-the-template-of-scatter-plot-in-flourish",
+    "title": "Scatter Plot: Advertisement Budget vs Sales",
     "section": "",
-    "text": "Flourish offers pre-built interactive templates for various chart types, including:\n- Bar charts, line charts, and scatter plots for statistical analysis.\n- Choropleth maps and point maps for geospatial visualizations.\n- Animated race charts for dynamic data representation.\n- Network graphs and hierarchy visualizations for complex relationships."
+    "text": "Step 1\n\n\n\n\nSearch and click on the template of Scatter Plot in Flourish."
   },
   {
-    "objectID": "key_features.html#no-coding-required",
-    "href": "key_features.html#no-coding-required",
-    "title": "Key Features of Flourish",
+    "objectID": "scatter_plot.html#step-2-upload-data-to-flourish",
+    "href": "scatter_plot.html#step-2-upload-data-to-flourish",
+    "title": "Scatter Plot: Advertisement Budget vs Sales",
     "section": "",
-    "text": "Unlike traditional visualization tools that require JavaScript (like D3.js), Flourish allows users to:\n✅ Upload structured data (CSV, Excel, Google Sheets).\n✅ Map columns to chart elements without writing any code.\n✅ Generate compelling visuals in just a few clicks."
+    "text": "Step 2\n\n\n\n\nGo to Flourish.\n\n\nCreate a new visualization and select Scatter Plot.\n\n\nUpload the CSV file you downloaded."
   },
   {
-    "objectID": "key_features.html#data-driven-storytelling",
-    "href": "key_features.html#data-driven-storytelling",
-    "title": "Key Features of Flourish",
+    "objectID": "scatter_plot.html#step-3-configure-the-chart",
+    "href": "scatter_plot.html#step-3-configure-the-chart",
+    "title": "Scatter Plot: Advertisement Budget vs Sales",
     "section": "",
-    "text": "One of Flourish’s most powerful features is its ability to create narrative-driven visualizations. Users can:\n- Create multi-slide stories that animate changes in data over time.\n- Use interactive filters and buttons to enhance engagement.\n- Combine multiple visualizations into a seamless report."
+    "text": "Step 3\n\n\n\n\nSet Advertisement Budget on the X-axis.\n\n\nSet Sales on the Y-axis.\n\n\nAdjust the scale if necessary."
   },
   {
-    "objectID": "key_features.html#customization-branding",
-    "href": "key_features.html#customization-branding",
-    "title": "Key Features of Flourish",
+    "objectID": "scatter_plot.html#step-4-customize-the-design",
+    "href": "scatter_plot.html#step-4-customize-the-design",
+    "title": "Scatter Plot: Advertisement Budget vs Sales",
     "section": "",
-    "text": "Flourish allows extensive customization:\n- Modify colors, labels, and fonts to match brand identity.\n- Add custom tooltips and interactive elements.\n- Use advanced styling options for a professional look."
+    "text": "Step 4\n\n\n\n\nChoose a color gradient to represent different sales values.\n\n\nAdd labels and tooltips for better readability.\n\n\nAdjust dot size and transparency for clarity."
   },
   {
-    "objectID": "key_features.html#embedding-sharing",
-    "href": "key_features.html#embedding-sharing",
-    "title": "Key Features of Flourish",
+    "objectID": "scatter_plot.html#step-5-publish-and-embed",
+    "href": "scatter_plot.html#step-5-publish-and-embed",
+    "title": "Scatter Plot: Advertisement Budget vs Sales",
     "section": "",
-    "text": "Flourish makes it easy to share visualizations:\n✅ Export as high-quality images or PDFs for reports.\n✅ Generate embed codes for websites and blogs.\n✅ Integrate with third-party platforms like WordPress or Google Data Studio."
+    "text": "Step 5\n\n\n\n\nClick “Publish & Export” in Flourish.\n\n\nCopy the Embed URL."
   },
   {
-    "objectID": "key_features.html#real-time-data-integration",
-    "href": "key_features.html#real-time-data-integration",
-    "title": "Key Features of Flourish",
+    "objectID": "scatter_plot.html#importance-of-scatter-plots",
+    "href": "scatter_plot.html#importance-of-scatter-plots",
+    "title": "Scatter Plot: Advertisement Budget vs Sales",
     "section": "",
-    "text": "Flourish supports live data connections, meaning you can:\n- Link Google Sheets or CSV URLs for real-time updates.\n- Automatically refresh visualizations without re-uploading data.\n- Stream data from APIs (available in the Pro version).\n\n\n\n\nFlourish is a powerful yet simple tool that democratizes data visualization. Whether you’re a journalist, researcher, student, or business analyst, it enables you to present data in an engaging and interactive way.\n\n\nGo back to Introduction"
+    "text": "Helps identify correlations between advertisement budget and sales.\n\n\nHighlights outliers and potential trends in the data.\n\n\nUseful for predictive analysis in marketing strategies.\n\n\n\nThis guide provides a structured approach to creating a Scatter Plot that visually represents the impact of advertising on sales."
+  },
+  {
+    "objectID": "radar_chart.html",
+    "href": "radar_chart.html",
+    "title": "Radar Chart Tutorial",
+    "section": "",
+    "text": "In this tutorial, we will create a Radar Chart to compare the football skills of Cristiano Ronaldo and Lionel Messi in five key attributes.\n\n\nThe data has been sourced from FIFA Index, a reliable database of FIFA player ratings.\n\n\n\n\nBall Control\n\nDribbling\n\nPhysical\n\nShooting\n\nPassing\n\n\n\n\n\n\n\n\nStep 1\n\n\n\nVisit FIFA Index to collect the latest player statistics.\n\nExtract values for Ball Control, Dribbling, Physical, Shooting, and Passing.\n\nStructure the dataset as follows:\n\n\n\n\n\n\nPlayer\n\n\nBall Control\n\n\nDribbling\n\n\nPhysical\n\n\nShooting\n\n\nPassing\n\n\n\n\n\n\nCristiano Ronaldo\n\n\n90\n\n\n85\n\n\n88\n\n\n95\n\n\n80\n\n\n\n\nLionel Messi\n\n\n94\n\n\n96\n\n\n72\n\n\n91\n\n\n92\n\n\n\n\n\n\n\n\n\n\n\n\nStep 1\n\n\n\nOpen Flourish and create a new Radar Chart.\n\nUpload the dataset as an Excel or CSV file.\n\n\n\n\n\n\n\n\nStep 2\n\n\n\nSet Player Name as the Legend.\n\nAssign attributes (Ball Control, Dribbling, etc.) to the Radar Axes.\n\n\n\n\n\n\n\n\nStep 3\n\n\n\nAdjust line thickness and colors for better contrast.\n\nEnable tooltips to display attribute values.\n\nAdd a title and labels for clarity.\n\n\n\n\n\n\n\n\nStep 4\n\n\n\nClick Publish & Export.\n\nCopy the Embed URL.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDisplays multi-dimensional data in a single view.\n\nHelps compare strengths and weaknesses across attributes.\n\nUseful for sports analytics & player performance comparisons.\n\n\nYour radar chart is now ready to be shared!"
+  },
+  {
+    "objectID": "radar_chart.html#attributes-compared",
+    "href": "radar_chart.html#attributes-compared",
+    "title": "Radar Chart Tutorial",
+    "section": "",
+    "text": "Ball Control\n\nDribbling\n\nPhysical\n\nShooting\n\nPassing"
+  },
+  {
+    "objectID": "radar_chart.html#step-1-collect-prepare-data",
+    "href": "radar_chart.html#step-1-collect-prepare-data",
+    "title": "Radar Chart Tutorial",
+    "section": "",
+    "text": "Step 1\n\n\n\nVisit FIFA Index to collect the latest player statistics.\n\nExtract values for Ball Control, Dribbling, Physical, Shooting, and Passing.\n\nStructure the dataset as follows:\n\n\n\n\n\n\nPlayer\n\n\nBall Control\n\n\nDribbling\n\n\nPhysical\n\n\nShooting\n\n\nPassing\n\n\n\n\n\n\nCristiano Ronaldo\n\n\n90\n\n\n85\n\n\n88\n\n\n95\n\n\n80\n\n\n\n\nLionel Messi\n\n\n94\n\n\n96\n\n\n72\n\n\n91\n\n\n92"
+  },
+  {
+    "objectID": "radar_chart.html#step-1-choose-radar-chart",
+    "href": "radar_chart.html#step-1-choose-radar-chart",
+    "title": "Radar Chart Tutorial",
+    "section": "",
+    "text": "Step 1\n\n\n\nOpen Flourish and create a new Radar Chart.\n\nUpload the dataset as an Excel or CSV file."
+  },
+  {
+    "objectID": "radar_chart.html#step-2-configure-data-mapping",
+    "href": "radar_chart.html#step-2-configure-data-mapping",
+    "title": "Radar Chart Tutorial",
+    "section": "",
+    "text": "Step 2\n\n\n\nSet Player Name as the Legend.\n\nAssign attributes (Ball Control, Dribbling, etc.) to the Radar Axes."
+  },
+  {
+    "objectID": "radar_chart.html#step-3-customize-chart-appearance",
+    "href": "radar_chart.html#step-3-customize-chart-appearance",
+    "title": "Radar Chart Tutorial",
+    "section": "",
+    "text": "Step 3\n\n\n\nAdjust line thickness and colors for better contrast.\n\nEnable tooltips to display attribute values.\n\nAdd a title and labels for clarity."
+  },
+  {
+    "objectID": "radar_chart.html#step-4-publish-embed",
+    "href": "radar_chart.html#step-4-publish-embed",
+    "title": "Radar Chart Tutorial",
+    "section": "",
+    "text": "Step 4\n\n\n\nClick Publish & Export.\n\nCopy the Embed URL."
+  },
+  {
+    "objectID": "radar_chart.html#why-use-a-radar-chart",
+    "href": "radar_chart.html#why-use-a-radar-chart",
+    "title": "Radar Chart Tutorial",
+    "section": "",
+    "text": "Displays multi-dimensional data in a single view.\n\nHelps compare strengths and weaknesses across attributes.\n\nUseful for sports analytics & player performance comparisons.\n\n\nYour radar chart is now ready to be shared!"
+  },
+  {
+    "objectID": "pictograph.html",
+    "href": "pictograph.html",
+    "title": "Pictograph Tutorial",
+    "section": "",
+    "text": "We’ll be using a BMI dataset from Harshal’s high school project on Obesity for the National Children’s Science Congress 2019-20. Follow these steps to create a pictograph comparing BMI categories and the number of people.\n\n\n\n\n- Open Flourish and select Pictogram Chart.\n- Upload your dataset (Excel or CSV format).\n- Ensure that the relevant columns (BMI Category and Number of People) are correctly selected.\n\n\n\n\n\n- Choose an appropriate icon to represent each unit (e.g., person silhouette).\n- Adjust the size, spacing, and arrangement of the icons.\n\n\n\n\n\n- Assign BMI categories to labels.\n- Set Number of People as the value determining icon count.\n- Ensure the mapping accurately reflects the dataset.\n\n\n\n\n\n- Adjust colors, labels, and tooltip settings for clarity.\n- Choose a consistent color scheme for different BMI categories.\n- Ensure the chart is visually intuitive and accessible.\n\n\n\n\n\n- Review your visualization for accuracy.\n- Click Publish & Export in Flourish.\n- Copy and share the Embed URL.\n\n\n\n\n\n\n  \n\n\n\n\n\nA Pictograph is ideal for BMI data because:\n\nIt visually represents different BMI categories (Underweight, Normal, Overweight, Obese).\n\nEach symbol corresponds to a fixed number of individuals, making data interpretation easier.\n\nIt allows for quick comparisons between different BMI groups.\n\nWorks best for datasets where values represent grouped counts rather than percentages.\n\nYour pictograph is now ready to be shared! 🚀"
+  },
+  {
+    "objectID": "pictograph.html#step-1-upload-your-data",
+    "href": "pictograph.html#step-1-upload-your-data",
+    "title": "Pictograph Tutorial",
+    "section": "",
+    "text": "- Open Flourish and select Pictogram Chart.\n- Upload your dataset (Excel or CSV format).\n- Ensure that the relevant columns (BMI Category and Number of People) are correctly selected."
+  },
+  {
+    "objectID": "pictograph.html#step-2-configure-the-icons",
+    "href": "pictograph.html#step-2-configure-the-icons",
+    "title": "Pictograph Tutorial",
+    "section": "",
+    "text": "- Choose an appropriate icon to represent each unit (e.g., person silhouette).\n- Adjust the size, spacing, and arrangement of the icons."
+  },
+  {
+    "objectID": "pictograph.html#step-3-map-the-data",
+    "href": "pictograph.html#step-3-map-the-data",
+    "title": "Pictograph Tutorial",
+    "section": "",
+    "text": "- Assign BMI categories to labels.\n- Set Number of People as the value determining icon count.\n- Ensure the mapping accurately reflects the dataset."
+  },
+  {
+    "objectID": "pictograph.html#step-4-customize-the-appearance",
+    "href": "pictograph.html#step-4-customize-the-appearance",
+    "title": "Pictograph Tutorial",
+    "section": "",
+    "text": "- Adjust colors, labels, and tooltip settings for clarity.\n- Choose a consistent color scheme for different BMI categories.\n- Ensure the chart is visually intuitive and accessible."
+  },
+  {
+    "objectID": "pictograph.html#step-5-finalize-and-publish",
+    "href": "pictograph.html#step-5-finalize-and-publish",
+    "title": "Pictograph Tutorial",
+    "section": "",
+    "text": "- Review your visualization for accuracy.\n- Click Publish & Export in Flourish.\n- Copy and share the Embed URL."
+  },
+  {
+    "objectID": "pictograph.html#why-use-a-pictograph-for-bmi-data",
+    "href": "pictograph.html#why-use-a-pictograph-for-bmi-data",
+    "title": "Pictograph Tutorial",
+    "section": "",
+    "text": "A Pictograph is ideal for BMI data because:\n\nIt visually represents different BMI categories (Underweight, Normal, Overweight, Obese).\n\nEach symbol corresponds to a fixed number of individuals, making data interpretation easier.\n\nIt allows for quick comparisons between different BMI groups.\n\nWorks best for datasets where values represent grouped counts rather than percentages.\n\nYour pictograph is now ready to be shared! 🚀"
+  },
+  {
+    "objectID": "line_chart.html",
+    "href": "line_chart.html",
+    "title": "Line Chart Tutorial",
+    "section": "",
+    "text": "Learn how to create a Line Chart to visualize Google’s stock price trends from 2020 to 2024.\n\n\n\n\n\n\n\nStep 1\n\n\n\nDownload historical stock data from:\n\nYahoo Finance\n\nGoogle Finance\n\n\nEnsure the dataset contains Date and Stock Price and Close columns.\n\n\n\n\n\n\n\n\nStep 2\n\n\n\nOpen Flourish.\nClick “New Visualization” and choose Line Chart.\nUpload the dataset.\n\n\n\n\n\n\n\n\nStep 3\n\n\n\nX-axis → Date\nY-axis → Close\nEnable tooltips for interactive insights.\n\n\n\n\n\n\n\n\nStep 4\n\n\n\nAdjust colors for clarity.\nEnable gridlines and labels.\nAdd a title and description.\n\n\n\n\n\n\n\n\nStep 5\n\n\n\nClick “Publish & Export”.\nCopy the embed code to share.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClearly illustrates trends over time.\n\nAllows comparison of price fluctuations.\n\nHelps identify patterns in market movements.\n\nProvides a simple yet powerful financial visualization."
+  },
+  {
+    "objectID": "line_chart.html#step-1-get-the-data",
+    "href": "line_chart.html#step-1-get-the-data",
+    "title": "Line Chart Tutorial",
+    "section": "",
+    "text": "Step 1\n\n\n\nDownload historical stock data from:\n\nYahoo Finance\n\nGoogle Finance\n\n\nEnsure the dataset contains Date and Stock Price and Close columns."
+  },
+  {
+    "objectID": "line_chart.html#step-2-upload-data-to-flourish",
+    "href": "line_chart.html#step-2-upload-data-to-flourish",
+    "title": "Line Chart Tutorial",
+    "section": "",
+    "text": "Step 2\n\n\n\nOpen Flourish.\nClick “New Visualization” and choose Line Chart.\nUpload the dataset."
+  },
+  {
+    "objectID": "line_chart.html#step-3-configure-the-chart",
+    "href": "line_chart.html#step-3-configure-the-chart",
+    "title": "Line Chart Tutorial",
+    "section": "",
+    "text": "Step 3\n\n\n\nX-axis → Date\nY-axis → Close\nEnable tooltips for interactive insights."
+  },
+  {
+    "objectID": "line_chart.html#step-4-customize-the-chart",
+    "href": "line_chart.html#step-4-customize-the-chart",
+    "title": "Line Chart Tutorial",
+    "section": "",
+    "text": "Step 4\n\n\n\nAdjust colors for clarity.\nEnable gridlines and labels.\nAdd a title and description."
+  },
+  {
+    "objectID": "line_chart.html#step-5-publish-embed",
+    "href": "line_chart.html#step-5-publish-embed",
+    "title": "Line Chart Tutorial",
+    "section": "",
+    "text": "Step 5\n\n\n\nClick “Publish & Export”.\nCopy the embed code to share."
+  },
+  {
+    "objectID": "line_chart.html#why-use-a-line-chart",
+    "href": "line_chart.html#why-use-a-line-chart",
+    "title": "Line Chart Tutorial",
+    "section": "",
+    "text": "Clearly illustrates trends over time.\n\nAllows comparison of price fluctuations.\n\nHelps identify patterns in market movements.\n\nProvides a simple yet powerful financial visualization."
+  },
+  {
+    "objectID": "installation.html",
+    "href": "installation.html",
+    "title": "Installation & Setup of Flourish",
+    "section": "",
+    "text": "Flourish is a web-based tool, meaning no installation is required. However, setting up an account and getting started involves a few simple steps.\n\n\n\n\n\n\n\nVisit the official website: Flourish.studio\n\n\nClick on Sign Up and enter your details.\n\n\nChoose a Free or Pro Plan based on your requirements.\n\n\nVerify your email and log in.\n\n\n\n\n\n\n\n\n\n\nClick on New Visualization in your dashboard.\n\n\nSelect a template that best fits your data.\n\n\nClick Upload Data and add your CSV or Excel file.\n\n\nMap your columns to chart elements for proper visualization.\n\n\n\n\n\n\n\n\nFlourish provides a variety of pre-built templates for different visualizations.\n\n\n\n\nExplore a wide range of templates to suit your data visualization needs.\n\nVisit Flourish Templates\n\n\n\n\n\n\n\n\nCustomize your visualization with colors, labels, and interactions.\n\n\nClick Publish to generate a public or private link.\n\n\nCopy the embed code to use on websites or presentations.\n\n\n\n\n\nFlourish makes data visualization accessible to everyone with its user-friendly, no-code approach.\nNow that you’ve set up Flourish, you’re ready to create stunning, interactive charts!\n\n\nNext: Learn about Flourish’s Key Features!\n\nCheck out the Key Features"
+  },
+  {
+    "objectID": "installation.html#step-1-create-a-flourish-account",
+    "href": "installation.html#step-1-create-a-flourish-account",
+    "title": "Installation & Setup of Flourish",
+    "section": "",
+    "text": "Visit the official website: Flourish.studio\n\n\nClick on Sign Up and enter your details.\n\n\nChoose a Free or Pro Plan based on your requirements.\n\n\nVerify your email and log in."
+  },
+  {
+    "objectID": "installation.html#step-2-upload-your-data",
+    "href": "installation.html#step-2-upload-your-data",
+    "title": "Installation & Setup of Flourish",
+    "section": "",
+    "text": "Click on New Visualization in your dashboard.\n\n\nSelect a template that best fits your data.\n\n\nClick Upload Data and add your CSV or Excel file.\n\n\nMap your columns to chart elements for proper visualization."
+  },
+  {
+    "objectID": "installation.html#step-3-explore-templates",
+    "href": "installation.html#step-3-explore-templates",
+    "title": "Installation & Setup of Flourish",
+    "section": "",
+    "text": "Flourish provides a variety of pre-built templates for different visualizations.\n\n\n\n\nExplore a wide range of templates to suit your data visualization needs.\n\nVisit Flourish Templates"
+  },
+  {
+    "objectID": "installation.html#step-4-publish-share",
+    "href": "installation.html#step-4-publish-share",
+    "title": "Installation & Setup of Flourish",
+    "section": "",
+    "text": "Customize your visualization with colors, labels, and interactions.\n\n\nClick Publish to generate a public or private link.\n\n\nCopy the embed code to use on websites or presentations.\n\n\n\n\n\nFlourish makes data visualization accessible to everyone with its user-friendly, no-code approach.\nNow that you’ve set up Flourish, you’re ready to create stunning, interactive charts!\n\n\nNext: Learn about Flourish’s Key Features!\n\nCheck out the Key Features"
+  },
+  {
+    "objectID": "conclusion.html",
+    "href": "conclusion.html",
+    "title": "Conclusion: The Power of Flourish",
+    "section": "",
+    "text": "Flourish is more than just a data visualization tool—it is a game-changer for interactive and engaging storytelling. Throughout this guide, we explored its key features, applications, and installation process. Now, let’s reflect on why Flourish is an essential platform in the world of data visualization.\n\n\n\n\n\n\n\nSimplicity & Accessibility – No coding required, making it ideal for users of all skill levels.\n\n\nDiverse Visualization Options – From bar charts to complex network graphs, Flourish offers extensive templates.\n\n\nSeamless Interactivity – Enables dynamic storytelling with animations, tooltips, and multi-slide narratives.\n\n\nEmbeddable & Shareable – Easily integrates into websites, reports, and presentations.\n\n\nReal-Time Data Support – Connects with live sources like Google Sheets for up-to-date visualizations.\n\n\n\n\n\n\n\n\nFlourish plays a crucial role in academia by simplifying the process of data analysis and presentation. Researchers and students can use it to:\n\n\n\nAnalyze complex datasets with interactive elements.\n\n\nCreate engaging reports for projects and publications.\n\n\nVisualize trends and patterns for better comprehension.\n\n\nShare findings with peers and educators in an impactful manner.\n\n\n\n\n\n\n\nAs data-driven decision-making becomes more prevalent across industries, tools like Flourish will continue to evolve. Whether in journalism, business, or academia, interactive storytelling is shaping the way we consume and interpret information.\n\n\n\n\nFlourish is an excellent tool for anyone looking to enhance their data visualization skills. Its intuitive interface, rich feature set, and seamless integration make it a must-have for professionals and students alike.\n\n\n\n\n\n\n\nIf you want to dive deeper into Flourish’s potential, visit the official documentation and tutorials:\n\n\n\nFlourish Official Site\n\n\nFlourish Help Center\n\n\n\n\nWe hope this guide has been insightful in helping you unlock the power of Flourish!"
+  },
+  {
+    "objectID": "conclusion.html#why-flourish-stands-out",
+    "href": "conclusion.html#why-flourish-stands-out",
+    "title": "Conclusion: The Power of Flourish",
+    "section": "",
+    "text": "Simplicity & Accessibility – No coding required, making it ideal for users of all skill levels.\n\n\nDiverse Visualization Options – From bar charts to complex network graphs, Flourish offers extensive templates.\n\n\nSeamless Interactivity – Enables dynamic storytelling with animations, tooltips, and multi-slide narratives.\n\n\nEmbeddable & Shareable – Easily integrates into websites, reports, and presentations.\n\n\nReal-Time Data Support – Connects with live sources like Google Sheets for up-to-date visualizations."
+  },
+  {
+    "objectID": "conclusion.html#impact-on-academic-research",
+    "href": "conclusion.html#impact-on-academic-research",
+    "title": "Conclusion: The Power of Flourish",
+    "section": "",
+    "text": "Flourish plays a crucial role in academia by simplifying the process of data analysis and presentation. Researchers and students can use it to:\n\n\n\nAnalyze complex datasets with interactive elements.\n\n\nCreate engaging reports for projects and publications.\n\n\nVisualize trends and patterns for better comprehension.\n\n\nShare findings with peers and educators in an impactful manner."
+  },
+  {
+    "objectID": "conclusion.html#the-future-of-data-visualization",
+    "href": "conclusion.html#the-future-of-data-visualization",
+    "title": "Conclusion: The Power of Flourish",
+    "section": "",
+    "text": "As data-driven decision-making becomes more prevalent across industries, tools like Flourish will continue to evolve. Whether in journalism, business, or academia, interactive storytelling is shaping the way we consume and interpret information.\n\n\n\n\nFlourish is an excellent tool for anyone looking to enhance their data visualization skills. Its intuitive interface, rich feature set, and seamless integration make it a must-have for professionals and students alike."
+  },
+  {
+    "objectID": "conclusion.html#continue-exploring",
+    "href": "conclusion.html#continue-exploring",
+    "title": "Conclusion: The Power of Flourish",
+    "section": "",
+    "text": "If you want to dive deeper into Flourish’s potential, visit the official documentation and tutorials:\n\n\n\nFlourish Official Site\n\n\nFlourish Help Center\n\n\n\n\nWe hope this guide has been insightful in helping you unlock the power of Flourish!"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "blog.html#quarto",
+    "href": "blog.html#quarto",
+    "title": "blog",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "bar_race_chart.html",
+    "href": "bar_race_chart.html",
+    "title": "Bar Race Chart Tutorial",
+    "section": "",
+    "text": "We’ll be creating a Bar Race Chart to visualize how the GDP of different countries has changed over time.\n\n\n\n\n- Open Flourish and under the template section, click on Bar Race Chart.\n\n\n\n\n\n- Download the dataset containing GDP (in Billion USD) over multiple years. - Upload your cleaned dataset.\n- Ensure that it has columns for Country, Year, and GDP Value.\n- Clean and format the data if necessary.\n\n\n\n\n\n- Set Country as the category.\n- Set Year as the time variable.\n- Set GDP Value as the numerical field.\n- Adjust the speed and duration of the animation.\n\n\n\n\n\n- Choose a color scheme to differentiate countries.\n- Enable labels and tooltips for better clarity.\n- Adjust the font size, title, and axis settings.\n\n\n\n\n\n- Click Publish & Export in Flourish.\n- Copy the Embed URL.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Bar Race Chart is the best choice for this dataset because:\n\nIt shows dynamic changes in GDP rankings over time.\n\nHighlights global economic trends in an engaging way.\n\nAnimation helps track how countries rise or fall in economic power.\n\nMakes it easy to compare GDP values year by year.\n\nYou’re done! Your animated bar race chart is ready to be shared."
+  },
+  {
+    "objectID": "bar_race_chart.html#step-1-create-a-bar-chart-race",
+    "href": "bar_race_chart.html#step-1-create-a-bar-chart-race",
+    "title": "Bar Race Chart Tutorial",
+    "section": "",
+    "text": "- Open Flourish and under the template section, click on Bar Race Chart."
+  },
+  {
+    "objectID": "bar_race_chart.html#step-2-collect-and-prepare-data",
+    "href": "bar_race_chart.html#step-2-collect-and-prepare-data",
+    "title": "Bar Race Chart Tutorial",
+    "section": "",
+    "text": "- Download the dataset containing GDP (in Billion USD) over multiple years. - Upload your cleaned dataset.\n- Ensure that it has columns for Country, Year, and GDP Value.\n- Clean and format the data if necessary."
+  },
+  {
+    "objectID": "bar_race_chart.html#step-3-configure-the-data",
+    "href": "bar_race_chart.html#step-3-configure-the-data",
+    "title": "Bar Race Chart Tutorial",
+    "section": "",
+    "text": "- Set Country as the category.\n- Set Year as the time variable.\n- Set GDP Value as the numerical field.\n- Adjust the speed and duration of the animation."
+  },
+  {
+    "objectID": "bar_race_chart.html#step-4-customize-appearance",
+    "href": "bar_race_chart.html#step-4-customize-appearance",
+    "title": "Bar Race Chart Tutorial",
+    "section": "",
+    "text": "- Choose a color scheme to differentiate countries.\n- Enable labels and tooltips for better clarity.\n- Adjust the font size, title, and axis settings."
+  },
+  {
+    "objectID": "bar_race_chart.html#step-5-publish-and-embed",
+    "href": "bar_race_chart.html#step-5-publish-and-embed",
+    "title": "Bar Race Chart Tutorial",
+    "section": "",
+    "text": "- Click Publish & Export in Flourish.\n- Copy the Embed URL."
+  },
+  {
+    "objectID": "bar_race_chart.html#why-use-a-bar-race-chart-for-gdp",
+    "href": "bar_race_chart.html#why-use-a-bar-race-chart-for-gdp",
+    "title": "Bar Race Chart Tutorial",
+    "section": "",
+    "text": "A Bar Race Chart is the best choice for this dataset because:\n\nIt shows dynamic changes in GDP rankings over time.\n\nHighlights global economic trends in an engaging way.\n\nAnimation helps track how countries rise or fall in economic power.\n\nMakes it easy to compare GDP values year by year.\n\nYou’re done! Your animated bar race chart is ready to be shared."
+  },
+  {
+    "objectID": "column_chart.html",
+    "href": "column_chart.html",
+    "title": "Grouped Column Chart Tutorial",
+    "section": "",
+    "text": "Learn how to create a Grouped Column Chart using Flourish.\n\n\n\n\nWe are using the Food Delivery Time Prediction dataset, which contains order time, distance, and delivery duration.\n\n\n\n\nDownload the dataset from\nKaggle.\n\n\n\nDataset Preview\n\n\n\n\n\n\n\nGo to Flourish.\n\nClick “New visualization” → Choose Column Chart\n\n\n\n\nFlourish Interface\n\n\n\n\n\n\n\nX-axis → Time of Day\n\nY-axis → Time & Distance\n\nGroup by → Delivery Type\n\n\n\n\nSettings Panel\n\n\n\n\n\n\n\nAdjust colors, labels, and grid lines for better readability.\n\n\n\n\nStyled Chart\n\n\n\n\n\n\n\nClick “Export & Publish”.\nEmbed the chart on your website.\n\n\n\n\nFinal Chart\n\n\n\n\n\n\n\n\n\n\n\nCompares multiple variables like time and distance in deliveries.\n\nHelps analyze patterns by time of day for delivery efficiency."
+  },
+  {
+    "objectID": "column_chart.html#dataset-used",
+    "href": "column_chart.html#dataset-used",
+    "title": "Grouped Column Chart Tutorial",
+    "section": "",
+    "text": "We are using the Food Delivery Time Prediction dataset, which contains order time, distance, and delivery duration."
+  },
+  {
+    "objectID": "column_chart.html#step-1-import-the-dataset",
+    "href": "column_chart.html#step-1-import-the-dataset",
+    "title": "Grouped Column Chart Tutorial",
+    "section": "",
+    "text": "Download the dataset from\nKaggle.\n\n\n\nDataset Preview"
+  },
+  {
+    "objectID": "column_chart.html#step-2-open-flourish-upload-data",
+    "href": "column_chart.html#step-2-open-flourish-upload-data",
+    "title": "Grouped Column Chart Tutorial",
+    "section": "",
+    "text": "Go to Flourish.\n\nClick “New visualization” → Choose Column Chart\n\n\n\n\nFlourish Interface"
+  },
+  {
+    "objectID": "column_chart.html#step-3-configure-axes-groups",
+    "href": "column_chart.html#step-3-configure-axes-groups",
+    "title": "Grouped Column Chart Tutorial",
+    "section": "",
+    "text": "X-axis → Time of Day\n\nY-axis → Time & Distance\n\nGroup by → Delivery Type\n\n\n\n\nSettings Panel"
+  },
+  {
+    "objectID": "column_chart.html#step-4-customize-the-chart",
+    "href": "column_chart.html#step-4-customize-the-chart",
+    "title": "Grouped Column Chart Tutorial",
+    "section": "",
+    "text": "Adjust colors, labels, and grid lines for better readability.\n\n\n\n\nStyled Chart"
+  },
+  {
+    "objectID": "column_chart.html#step-5-publish-share",
+    "href": "column_chart.html#step-5-publish-share",
+    "title": "Grouped Column Chart Tutorial",
+    "section": "",
+    "text": "Click “Export & Publish”.\nEmbed the chart on your website.\n\n\n\n\nFinal Chart"
+  },
+  {
+    "objectID": "column_chart.html#why-use-a-grouped-column-chart",
+    "href": "column_chart.html#why-use-a-grouped-column-chart",
+    "title": "Grouped Column Chart Tutorial",
+    "section": "",
+    "text": "Compares multiple variables like time and distance in deliveries.\n\nHelps analyze patterns by time of day for delivery efficiency."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduction to Flourish",
     "section": "",
-    "text": "Flourish is an advanced no-code platform designed for creating\ninteractive and dynamic data visualizations. It allows users to transform raw data into\nstunning visual stories without requiring programming skills.\n\n\n\n\n\n\n\nEasy-to-use Interface – Upload datasets and instantly generate interactive charts, maps, and infographics.\n\n\nCustomization – Modify colors, labels, and animations to match your brand or presentation style.\n\n\nData-Driven Storytelling – Combine multiple visualizations into seamless, engaging stories.\n\n\nEmbeddable & Shareable – Export visualizations for web use or share them via interactive links.\n\n\nTemplates & Themes – A variety of pre-built templates make designing effortless.\n\n\n\n\n\n\n\n\nFlourish is widely used by journalists, researchers, educators, and businesses\nfor data-driven decision-making.\n\n\nWhether you’re analyzing climate trends,\nfinancial reports, or social media metrics,\nFlourish helps visualize complex information in an intuitive way.\n\n\n\n\n\nWith Flourish, users can:\n✅ Upload structured data (CSV, Excel, or Google Sheets).\n✅ Map data to chart elements for visual representation.\n✅ Animate changes over time to create engaging narratives.\n✅ Embed dashboards into websites or presentations.\n\n\n\nFlourish revolutionizes how we communicate insights,\nmaking data not just informative but also visually compelling.\nIn the following sections, we will explore how to use Flourish effectively\nand unlock its full potential!\n\n\n\n\n\n\n\nThis is how the Flourish dashboard looks:\n\n\n\n\n\n\n\n\nTo create a visualization in Flourish, follow these steps:\n\n\n📂 Upload your dataset – Provide structured data in CSV or Excel format.\n\n\n📊 Choose a chart type – Select from bar charts, scatter plots, maps, and more.\n\n\n🎨 Customize the design – Adjust colors, labels, and interactivity options.\n\n\n📤 Publish and share – Embed your visualizations in websites or presentations.\n\n\nHere’s an example of a chart being created:\n\n\n\n\n➡️ Next: Learn about Flourish’s Key Features!\nCheck out the Key Features"
+    "text": "Flourish is an advanced no-code platform designed for creating\ninteractive and dynamic data visualizations. It allows users to transform raw data into\nstunning visual stories without requiring programming skills.\n\n\n\n\n\n\n\nEasy-to-use Interface – Upload datasets and instantly generate interactive charts, maps, and infographics.\n\n\nCustomization – Modify colors, labels, and animations to match your brand or presentation style.\n\n\nData-Driven Storytelling – Combine multiple visualizations into seamless, engaging stories.\n\n\nEmbeddable & Shareable – Export visualizations for web use or share them via interactive links.\n\n\nTemplates & Themes – A variety of pre-built templates make designing effortless.\n\n\n\n\n\n\n\n\nFlourish is widely used by journalists, researchers, educators, and businesses\nfor data-driven decision-making.\n\n\nWhether you’re analyzing climate trends,\nfinancial reports, or social media metrics,\nFlourish helps visualize complex information in an intuitive way.\n\n\n\n\n\nWith Flourish, users can:\n\nUpload structured data (CSV, Excel, or Google Sheets).\n\nMap data to chart elements for visual representation.\n\nAnimate changes over time to create engaging narratives.\n\nEmbed dashboards into websites or presentations.\n\n\n\n\nFlourish revolutionizes how we communicate insights,\nmaking data not just informative but also visually compelling.\nIn the following sections, we will explore how to use Flourish effectively\nand unlock its full potential.\n\n\n\n\n\n\n\nThis is how the Flourish dashboard looks:\n\n\n\n\n\n\n\n\nTo create a visualization in Flourish, follow these steps:\n\n\nUpload your dataset – Provide structured data in CSV or Excel format.\n\n\nChoose a chart type – Select from bar charts, scatter plots, maps, and more.\n\n\nCustomize the design – Adjust colors, labels, and interactivity options.\n\n\nPublish and share – Embed your visualizations in websites or presentations.\n\n\n\nHere’s an example of a chart being created:\n\n\n\n\n\n\nNext: Learn about Flourish’s Key Features.\n\nCheck out the Key Features"
   },
   {
     "objectID": "index.html#key-features",
@@ -116,7 +459,7 @@
     "href": "index.html#transforming-raw-data-into-insights",
     "title": "Introduction to Flourish",
     "section": "",
-    "text": "With Flourish, users can:\n✅ Upload structured data (CSV, Excel, or Google Sheets).\n✅ Map data to chart elements for visual representation.\n✅ Animate changes over time to create engaging narratives.\n✅ Embed dashboards into websites or presentations.\n\n\n\nFlourish revolutionizes how we communicate insights,\nmaking data not just informative but also visually compelling.\nIn the following sections, we will explore how to use Flourish effectively\nand unlock its full potential!"
+    "text": "With Flourish, users can:\n\nUpload structured data (CSV, Excel, or Google Sheets).\n\nMap data to chart elements for visual representation.\n\nAnimate changes over time to create engaging narratives.\n\nEmbed dashboards into websites or presentations.\n\n\n\n\nFlourish revolutionizes how we communicate insights,\nmaking data not just informative but also visually compelling.\nIn the following sections, we will explore how to use Flourish effectively\nand unlock its full potential."
   },
   {
     "objectID": "index.html#flourish-user-interface",
@@ -130,118 +473,188 @@
     "href": "index.html#creating-a-visualization",
     "title": "Introduction to Flourish",
     "section": "",
-    "text": "To create a visualization in Flourish, follow these steps:\n\n\n📂 Upload your dataset – Provide structured data in CSV or Excel format.\n\n\n📊 Choose a chart type – Select from bar charts, scatter plots, maps, and more.\n\n\n🎨 Customize the design – Adjust colors, labels, and interactivity options.\n\n\n📤 Publish and share – Embed your visualizations in websites or presentations.\n\n\nHere’s an example of a chart being created:\n\n\n\n\n➡️ Next: Learn about Flourish’s Key Features!\nCheck out the Key Features"
+    "text": "To create a visualization in Flourish, follow these steps:\n\n\nUpload your dataset – Provide structured data in CSV or Excel format.\n\n\nChoose a chart type – Select from bar charts, scatter plots, maps, and more.\n\n\nCustomize the design – Adjust colors, labels, and interactivity options.\n\n\nPublish and share – Embed your visualizations in websites or presentations.\n\n\n\nHere’s an example of a chart being created:\n\n\n\n\n\n\nNext: Learn about Flourish’s Key Features.\n\nCheck out the Key Features"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "blog",
+    "objectID": "key_features.html",
+    "href": "key_features.html",
+    "title": "Key Features of Flourish",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Flourish provides an intuitive and powerful environment for data-driven storytelling. Here are its most significant features:\n\n\nFlourish offers pre-built interactive templates for various chart types, including:\n- Bar charts, line charts, and scatter plots for statistical analysis.\n- Choropleth maps and point maps for geospatial visualizations.\n- Animated race charts for dynamic data representation.\n- Network graphs and hierarchy visualizations for complex relationships.\n\n\n\n\n\n\nUnlike traditional visualization tools that require JavaScript (like D3.js), Flourish allows users to:\n- Upload structured data (CSV, Excel, Google Sheets).\n- Map columns to chart elements without writing any code.\n- Generate compelling visuals in just a few clicks.\n\n\n\n\n\n\nOne of Flourish’s most powerful features is its ability to create narrative-driven visualizations. Users can:\n- Create multi-slide stories that animate changes in data over time.\n- Use interactive filters and buttons to enhance engagement.\n- Combine multiple visualizations into a seamless report.\n\n\n  \n\n\n\n\nFlourish allows extensive customization:\n- Modify colors, labels, and fonts to match brand identity.\n- Add custom tooltips and interactive elements.\n- Use advanced styling options for a professional look.\n\n\n\n\n\n\nFlourish makes it easy to share visualizations:\n- Export as high-quality images or PDFs for reports.\n- Generate embed codes for websites and blogs.\n- Integrate with third-party platforms like WordPress or Google Data Studio.\n\n\n\n\n\n\nFlourish supports live data connections, meaning you can:\n- Link Google Sheets or CSV URLs for real-time updates.\n- Automatically refresh visualizations without re-uploading data.\n- Stream data from APIs (available in the Pro version).\n\n\n\n\nFlourish is a powerful yet simple tool that democratizes data visualization. Whether you’re a journalist, researcher, student, or business analyst, it enables you to present data in an engaging and interactive way.\n\n\nGo back to Introduction"
   },
   {
-    "objectID": "blog.html#quarto",
-    "href": "blog.html#quarto",
-    "title": "blog",
+    "objectID": "key_features.html#wide-range-of-visualization-templates",
+    "href": "key_features.html#wide-range-of-visualization-templates",
+    "title": "Key Features of Flourish",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Flourish offers pre-built interactive templates for various chart types, including:\n- Bar charts, line charts, and scatter plots for statistical analysis.\n- Choropleth maps and point maps for geospatial visualizations.\n- Animated race charts for dynamic data representation.\n- Network graphs and hierarchy visualizations for complex relationships."
   },
   {
-    "objectID": "conclusion.html",
-    "href": "conclusion.html",
-    "title": "Conclusion: The Power of Flourish",
+    "objectID": "key_features.html#no-coding-required",
+    "href": "key_features.html#no-coding-required",
+    "title": "Key Features of Flourish",
     "section": "",
-    "text": "Flourish is more than just a data visualization tool—it is a game-changer for interactive and engaging storytelling. Throughout this guide, we explored its key features, applications, and installation process. Now, let’s reflect on why Flourish is an essential platform in the world of data visualization.\n\n\n\n\n\n\n\nSimplicity & Accessibility – No coding required, making it ideal for users of all skill levels.\n\n\nDiverse Visualization Options – From bar charts to complex network graphs, Flourish offers extensive templates.\n\n\nSeamless Interactivity – Enables dynamic storytelling with animations, tooltips, and multi-slide narratives.\n\n\nEmbeddable & Shareable – Easily integrates into websites, reports, and presentations.\n\n\nReal-Time Data Support – Connects with live sources like Google Sheets for up-to-date visualizations.\n\n\n\n\n\n\n\nFlourish plays a crucial role in academia by simplifying the process of data analysis and presentation. Researchers and students can use it to:\n✅ Analyze complex datasets with interactive elements.\n✅ Create engaging reports for projects and publications.\n✅ Visualize trends and patterns for better comprehension.\n✅ Share findings with peers and educators in an impactful manner.\n\n\n\n\nAs data-driven decision-making becomes more prevalent across industries, tools like Flourish will continue to evolve. Whether in journalism, business, or academia, interactive storytelling is shaping the way we consume and interpret information.\n\n\nFlourish is an excellent tool for anyone looking to enhance their data visualization skills. Its intuitive interface, rich feature set, and seamless integration make it a must-have for professionals and students alike.\n\n\n\n\n\nIf you want to dive deeper into Flourish’s potential, visit the official documentation and tutorials:\n➡️ Flourish Official Site\n➡️ Flourish Help Center\n\n\nWe hope this guide has been insightful in helping you unlock the power of Flourish! 🎉"
+    "text": "Unlike traditional visualization tools that require JavaScript (like D3.js), Flourish allows users to:\n- Upload structured data (CSV, Excel, Google Sheets).\n- Map columns to chart elements without writing any code.\n- Generate compelling visuals in just a few clicks."
   },
   {
-    "objectID": "conclusion.html#why-flourish-stands-out",
-    "href": "conclusion.html#why-flourish-stands-out",
-    "title": "Conclusion: The Power of Flourish",
+    "objectID": "key_features.html#data-driven-storytelling",
+    "href": "key_features.html#data-driven-storytelling",
+    "title": "Key Features of Flourish",
     "section": "",
-    "text": "Simplicity & Accessibility – No coding required, making it ideal for users of all skill levels.\n\n\nDiverse Visualization Options – From bar charts to complex network graphs, Flourish offers extensive templates.\n\n\nSeamless Interactivity – Enables dynamic storytelling with animations, tooltips, and multi-slide narratives.\n\n\nEmbeddable & Shareable – Easily integrates into websites, reports, and presentations.\n\n\nReal-Time Data Support – Connects with live sources like Google Sheets for up-to-date visualizations."
+    "text": "One of Flourish’s most powerful features is its ability to create narrative-driven visualizations. Users can:\n- Create multi-slide stories that animate changes in data over time.\n- Use interactive filters and buttons to enhance engagement.\n- Combine multiple visualizations into a seamless report."
   },
   {
-    "objectID": "conclusion.html#impact-on-academic-research",
-    "href": "conclusion.html#impact-on-academic-research",
-    "title": "Conclusion: The Power of Flourish",
+    "objectID": "key_features.html#customization-branding",
+    "href": "key_features.html#customization-branding",
+    "title": "Key Features of Flourish",
     "section": "",
-    "text": "Flourish plays a crucial role in academia by simplifying the process of data analysis and presentation. Researchers and students can use it to:\n✅ Analyze complex datasets with interactive elements.\n✅ Create engaging reports for projects and publications.\n✅ Visualize trends and patterns for better comprehension.\n✅ Share findings with peers and educators in an impactful manner."
+    "text": "Flourish allows extensive customization:\n- Modify colors, labels, and fonts to match brand identity.\n- Add custom tooltips and interactive elements.\n- Use advanced styling options for a professional look."
   },
   {
-    "objectID": "conclusion.html#the-future-of-data-visualization",
-    "href": "conclusion.html#the-future-of-data-visualization",
-    "title": "Conclusion: The Power of Flourish",
+    "objectID": "key_features.html#embedding-sharing",
+    "href": "key_features.html#embedding-sharing",
+    "title": "Key Features of Flourish",
     "section": "",
-    "text": "As data-driven decision-making becomes more prevalent across industries, tools like Flourish will continue to evolve. Whether in journalism, business, or academia, interactive storytelling is shaping the way we consume and interpret information.\n\n\nFlourish is an excellent tool for anyone looking to enhance their data visualization skills. Its intuitive interface, rich feature set, and seamless integration make it a must-have for professionals and students alike."
+    "text": "Flourish makes it easy to share visualizations:\n- Export as high-quality images or PDFs for reports.\n- Generate embed codes for websites and blogs.\n- Integrate with third-party platforms like WordPress or Google Data Studio."
   },
   {
-    "objectID": "conclusion.html#continue-exploring",
-    "href": "conclusion.html#continue-exploring",
-    "title": "Conclusion: The Power of Flourish",
+    "objectID": "key_features.html#real-time-data-integration",
+    "href": "key_features.html#real-time-data-integration",
+    "title": "Key Features of Flourish",
     "section": "",
-    "text": "If you want to dive deeper into Flourish’s potential, visit the official documentation and tutorials:\n➡️ Flourish Official Site\n➡️ Flourish Help Center\n\n\nWe hope this guide has been insightful in helping you unlock the power of Flourish! 🎉"
+    "text": "Flourish supports live data connections, meaning you can:\n- Link Google Sheets or CSV URLs for real-time updates.\n- Automatically refresh visualizations without re-uploading data.\n- Stream data from APIs (available in the Pro version).\n\n\n\n\nFlourish is a powerful yet simple tool that democratizes data visualization. Whether you’re a journalist, researcher, student, or business analyst, it enables you to present data in an engaging and interactive way.\n\n\nGo back to Introduction"
   },
   {
-    "objectID": "installation.html",
-    "href": "installation.html",
-    "title": "Installation & Setup of Flourish",
+    "objectID": "map_visualization.html",
+    "href": "map_visualization.html",
+    "title": "Map Visualization Tutorial",
     "section": "",
-    "text": "Flourish is a web-based tool, meaning no installation is required. However, setting up an account and getting started involves a few simple steps.\n\n\n\n\n\n\n🌐 Visit the official website: Flourish.studio\n\n\n🔑 Click on Sign Up and enter your details.\n\n\n📜 Choose a Free or Pro Plan based on your requirements.\n\n\n✅ Verify your email and log in.\n\n\n\n\n\n\n\n\n\n\n🆕 Click on New Visualization in your dashboard.\n\n\n📊 Choose a template that best fits your data.\n\n\n📥 Click on Upload Data and add your CSV or Excel file.\n\n\n📌 Map your columns to chart elements for proper visualization.\n\n\n\n\n\n\n\nFlourish provides a variety of pre-built templates for different visualizations.\n\n\n\nExplore a wide range of templates to suit your data visualization needs.\n\n Visit Flourish Templates \n\n\n\n\n\n\n\n\n🎨 Customize your visualization with colors, labels, and interactions.\n\n\n🚀 Click Publish to generate a public or private link.\n\n\n📎 Copy the embed code to use on websites or presentations.\n\n\n\n\nFlourish makes data visualization accessible to everyone with its user-friendly, no-code approach.\nNow that you’ve set up Flourish, you’re ready to create stunning, interactive charts! 🚀\n➡️ Next: Learn about Flourish’s Key Features!\nCheck out the Key Features"
+    "text": "We’ll be creating a Map Visualization to represent SO₂ levels across different locations in India.\n\n\n\n\n\n- Open Flourish and select 3D Map &gt; Heat Map.\n- Upload your dataset.\n\n\n\n\n\n- Load the dataset and extract relevant columns:\n- Latitude\n- Longitude\n- SO₂ Concentration (µg/m³)\n- Ensure the data is cleaned and formatted correctly.\n\n\n\n\n\n- In the points section, set the ‘Appearance’ as points.\n- Set Latitude and Longitude as location points.\n- Set SO₂ Concentration as the circle size to represent pollution levels.\n- Choose a color scale to indicate severity (e.g., yellow for low, red for high).\n\n\n\n\n\n- Adjust circle opacity, size scaling, and tooltips for clarity.\n- Add a legend to show the pollution scale.\n- Set an appropriate base map style.\n\n\n\n\n\n- Click “Publish & Export” in Flourish.\n- Copy the Embed URL.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRepresents pollution hotspots geographically.\n\nClear size scaling shows pollution severity at each location.\n\nProvides a spatial understanding of SO₂ distribution across India.\n\nMakes trends in urban vs rural pollution more visible."
   },
   {
-    "objectID": "installation.html#step-1-create-a-flourish-account",
-    "href": "installation.html#step-1-create-a-flourish-account",
-    "title": "Installation & Setup of Flourish",
+    "objectID": "map_visualization.html#step-1-upload-data-to-flourish",
+    "href": "map_visualization.html#step-1-upload-data-to-flourish",
+    "title": "Map Visualization Tutorial",
     "section": "",
-    "text": "🌐 Visit the official website: Flourish.studio\n\n\n🔑 Click on Sign Up and enter your details.\n\n\n📜 Choose a Free or Pro Plan based on your requirements.\n\n\n✅ Verify your email and log in."
+    "text": "- Open Flourish and select 3D Map &gt; Heat Map.\n- Upload your dataset."
   },
   {
-    "objectID": "installation.html#step-2-upload-your-data",
-    "href": "installation.html#step-2-upload-your-data",
-    "title": "Installation & Setup of Flourish",
+    "objectID": "map_visualization.html#step-2-prepare-the-data",
+    "href": "map_visualization.html#step-2-prepare-the-data",
+    "title": "Map Visualization Tutorial",
     "section": "",
-    "text": "🆕 Click on New Visualization in your dashboard.\n\n\n📊 Choose a template that best fits your data.\n\n\n📥 Click on Upload Data and add your CSV or Excel file.\n\n\n📌 Map your columns to chart elements for proper visualization."
+    "text": "- Load the dataset and extract relevant columns:\n- Latitude\n- Longitude\n- SO₂ Concentration (µg/m³)\n- Ensure the data is cleaned and formatted correctly."
   },
   {
-    "objectID": "installation.html#step-3-explore-templates",
-    "href": "installation.html#step-3-explore-templates",
-    "title": "Installation & Setup of Flourish",
+    "objectID": "map_visualization.html#step-3-configure-the-data",
+    "href": "map_visualization.html#step-3-configure-the-data",
+    "title": "Map Visualization Tutorial",
     "section": "",
-    "text": "Flourish provides a variety of pre-built templates for different visualizations.\n\n\n\nExplore a wide range of templates to suit your data visualization needs.\n\n Visit Flourish Templates"
+    "text": "- In the points section, set the ‘Appearance’ as points.\n- Set Latitude and Longitude as location points.\n- Set SO₂ Concentration as the circle size to represent pollution levels.\n- Choose a color scale to indicate severity (e.g., yellow for low, red for high)."
   },
   {
-    "objectID": "installation.html#step-4-publish-share",
-    "href": "installation.html#step-4-publish-share",
-    "title": "Installation & Setup of Flourish",
+    "objectID": "map_visualization.html#step-4-customize-appearance",
+    "href": "map_visualization.html#step-4-customize-appearance",
+    "title": "Map Visualization Tutorial",
     "section": "",
-    "text": "🎨 Customize your visualization with colors, labels, and interactions.\n\n\n🚀 Click Publish to generate a public or private link.\n\n\n📎 Copy the embed code to use on websites or presentations.\n\n\n\n\nFlourish makes data visualization accessible to everyone with its user-friendly, no-code approach.\nNow that you’ve set up Flourish, you’re ready to create stunning, interactive charts! 🚀\n➡️ Next: Learn about Flourish’s Key Features!\nCheck out the Key Features"
+    "text": "- Adjust circle opacity, size scaling, and tooltips for clarity.\n- Add a legend to show the pollution scale.\n- Set an appropriate base map style."
+  },
+  {
+    "objectID": "map_visualization.html#step-5-publish-and-embed",
+    "href": "map_visualization.html#step-5-publish-and-embed",
+    "title": "Map Visualization Tutorial",
+    "section": "",
+    "text": "- Click “Publish & Export” in Flourish.\n- Copy the Embed URL."
+  },
+  {
+    "objectID": "map_visualization.html#why-use-a-circle-map-for-so₂-concentrations",
+    "href": "map_visualization.html#why-use-a-circle-map-for-so₂-concentrations",
+    "title": "Map Visualization Tutorial",
+    "section": "",
+    "text": "Represents pollution hotspots geographically.\n\nClear size scaling shows pollution severity at each location.\n\nProvides a spatial understanding of SO₂ distribution across India.\n\nMakes trends in urban vs rural pollution more visible."
+  },
+  {
+    "objectID": "pie_chart.html",
+    "href": "pie_chart.html",
+    "title": "Pie Chart: Market Share of Smartphone Vendors",
+    "section": "",
+    "text": "Learn how to create a Pie Chart to visualize the market share of different smartphone vendors over time.\n\n\n\n\n\n\n\nStep 1\n\n\n\nDownload the dataset from reliable open sources.\nEnsure the dataset includes Vendors, Market Share (%), and Year.\n\n\n\n\n\n\n\n\nStep 2\n\n\n\nOpen Flourish.\nClick “New Visualization” and choose Pie Chart.\nUpload the cleaned dataset.\n\n\n\n\n\n\n\n\nStep 3\n\n\n\nLabels → Vendors\nValues → Market Share (%)\nFilters → Enable Year as a dropdown or slider.\n\n\n\n\n\n\n\n\nStep 4\n\n\n\nAdjust colors for better clarity.\nEnable percentage labels for readability.\nAdd a title and description.\n\n\n\n\n\n\n\n\nStep 5\n\n\n\nClick “Publish & Export” in Flourish.\nCopy the embed code to share.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEasy comparison of different smartphone vendors.\nClearly represents proportions within the total market.\nHelps visualize brand dominance over time.\nUseful for business analysis and market trend tracking.\n\nNow you have an interactive Pie Chart displaying smartphone market share trends!"
+  },
+  {
+    "objectID": "pie_chart.html#step-1-import-data",
+    "href": "pie_chart.html#step-1-import-data",
+    "title": "Pie Chart: Market Share of Smartphone Vendors",
+    "section": "",
+    "text": "Step 1\n\n\n\nDownload the dataset from reliable open sources.\nEnsure the dataset includes Vendors, Market Share (%), and Year."
+  },
+  {
+    "objectID": "pie_chart.html#step-2-upload-data-to-flourish",
+    "href": "pie_chart.html#step-2-upload-data-to-flourish",
+    "title": "Pie Chart: Market Share of Smartphone Vendors",
+    "section": "",
+    "text": "Step 2\n\n\n\nOpen Flourish.\nClick “New Visualization” and choose Pie Chart.\nUpload the cleaned dataset."
+  },
+  {
+    "objectID": "pie_chart.html#step-3-configure-the-chart",
+    "href": "pie_chart.html#step-3-configure-the-chart",
+    "title": "Pie Chart: Market Share of Smartphone Vendors",
+    "section": "",
+    "text": "Step 3\n\n\n\nLabels → Vendors\nValues → Market Share (%)\nFilters → Enable Year as a dropdown or slider."
+  },
+  {
+    "objectID": "pie_chart.html#step-4-customize-design",
+    "href": "pie_chart.html#step-4-customize-design",
+    "title": "Pie Chart: Market Share of Smartphone Vendors",
+    "section": "",
+    "text": "Step 4\n\n\n\nAdjust colors for better clarity.\nEnable percentage labels for readability.\nAdd a title and description."
+  },
+  {
+    "objectID": "pie_chart.html#step-5-publish-embed",
+    "href": "pie_chart.html#step-5-publish-embed",
+    "title": "Pie Chart: Market Share of Smartphone Vendors",
+    "section": "",
+    "text": "Step 5\n\n\n\nClick “Publish & Export” in Flourish.\nCopy the embed code to share."
+  },
+  {
+    "objectID": "pie_chart.html#why-use-a-pie-chart",
+    "href": "pie_chart.html#why-use-a-pie-chart",
+    "title": "Pie Chart: Market Share of Smartphone Vendors",
+    "section": "",
+    "text": "Easy comparison of different smartphone vendors.\nClearly represents proportions within the total market.\nHelps visualize brand dominance over time.\nUseful for business analysis and market trend tracking.\n\nNow you have an interactive Pie Chart displaying smartphone market share trends!"
   },
   {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References & Further Reading",
     "section": "",
-    "text": "Below are some valuable resources that were referenced throughout this project, including datasets and official documentation.\n\n\n\n\n\nFlourish Official Documentation\nFlourish YouTube Channel\nData Visualization Best Practices\nInteractive Storytelling with Data\n\n\n\n\n\nThe following datasets were sourced from Kaggle and other open data platforms for demonstrating Flourish’s capabilities:\n\n[Dataset Placeholder 1] – [Source Placeholder]\n[Dataset Placeholder 2] – [Source Placeholder]\n[Dataset Placeholder 3] – [Source Placeholder]\n[Dataset Placeholder 4] – [Source Placeholder]\n[Dataset Placeholder 5] – [Source Placeholder]\n[Dataset Placeholder 6] – [Source Placeholder]\n[Dataset Placeholder 7] – [Source Placeholder]\n[Dataset Placeholder 8] – [Source Placeholder]\n\n\n\n\n\nWe extend our sincere gratitude to Professor Nipun Batra for his guidance throughout the project and to our Teaching Assistant Dewansh Chandel for his valuable support and feedback.\nThis project would not have been possible without the open datasets and tools along with the guidance of Prof. Nipun Batra and TA Dewansh Chandel that enabled us to explore data visualization with Flourish."
+    "text": "Below are some valuable resources that were referenced throughout this project, including datasets and official documentation.\n\n\n\n\n\nFlourish Official Documentation\nFlourish YouTube Channel\nKaggle\nGovernment Of India Datasets\nStatcounter\n\n\n\n\n\nThe following datasets were sourced from Kaggle and other open data platforms for demonstrating Flourish’s capabilities:\n\nRadar Dataset – [https://www.fifaindex.com/player/20801/cristiano-ronaldo/fifa16/]\nFood Delivery Times – [https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction]\nSO2 Concentrations – [https://www.data.gov.in/resource/real-time-air-quality-index-various-locations]\nMobile Vendor Market Share India – [https://gs.statcounter.com/vendor-market-share/mobile/india/2024]\nCountry Dataset – [https://github.com/dr5hn/countries-states-cities-database/blob/master/csv/countries.csv]\nTV Marketing and Sales – [https://www.kaggle.com/datasets/samarthpujari/tv-marketing]\nGoogle Share Price – [https://finance.yahoo.com/quote/GOOG/history/?guccounter=1]\nBMI Dataset (Created by Harshal for his high school project)\n\n\n\n\n\nWe extend our sincere gratitude to Professor Nipun Batra for his guidance throughout the project and to our Teaching Assistant Dewansh Chandel for his valuable support and feedback.\nThis project would not have been possible without the open datasets and tools that enabled us to explore data visualization with Flourish."
   },
   {
     "objectID": "references.html#official-documentation-tutorials",
     "href": "references.html#official-documentation-tutorials",
     "title": "References & Further Reading",
     "section": "",
-    "text": "Flourish Official Documentation\nFlourish YouTube Channel\nData Visualization Best Practices\nInteractive Storytelling with Data"
+    "text": "Flourish Official Documentation\nFlourish YouTube Channel\nKaggle\nGovernment Of India Datasets\nStatcounter"
   },
   {
     "objectID": "references.html#datasets-used",
     "href": "references.html#datasets-used",
     "title": "References & Further Reading",
     "section": "",
-    "text": "The following datasets were sourced from Kaggle and other open data platforms for demonstrating Flourish’s capabilities:\n\n[Dataset Placeholder 1] – [Source Placeholder]\n[Dataset Placeholder 2] – [Source Placeholder]\n[Dataset Placeholder 3] – [Source Placeholder]\n[Dataset Placeholder 4] – [Source Placeholder]\n[Dataset Placeholder 5] – [Source Placeholder]\n[Dataset Placeholder 6] – [Source Placeholder]\n[Dataset Placeholder 7] – [Source Placeholder]\n[Dataset Placeholder 8] – [Source Placeholder]"
+    "text": "The following datasets were sourced from Kaggle and other open data platforms for demonstrating Flourish’s capabilities:\n\nRadar Dataset – [https://www.fifaindex.com/player/20801/cristiano-ronaldo/fifa16/]\nFood Delivery Times – [https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction]\nSO2 Concentrations – [https://www.data.gov.in/resource/real-time-air-quality-index-various-locations]\nMobile Vendor Market Share India – [https://gs.statcounter.com/vendor-market-share/mobile/india/2024]\nCountry Dataset – [https://github.com/dr5hn/countries-states-cities-database/blob/master/csv/countries.csv]\nTV Marketing and Sales – [https://www.kaggle.com/datasets/samarthpujari/tv-marketing]\nGoogle Share Price – [https://finance.yahoo.com/quote/GOOG/history/?guccounter=1]\nBMI Dataset (Created by Harshal for his high school project)"
   },
   {
     "objectID": "references.html#acknowledgment",
     "href": "references.html#acknowledgment",
     "title": "References & Further Reading",
     "section": "",
-    "text": "We extend our sincere gratitude to Professor Nipun Batra for his guidance throughout the project and to our Teaching Assistant Dewansh Chandel for his valuable support and feedback.\nThis project would not have been possible without the open datasets and tools along with the guidance of Prof. Nipun Batra and TA Dewansh Chandel that enabled us to explore data visualization with Flourish."
+    "text": "We extend our sincere gratitude to Professor Nipun Batra for his guidance throughout the project and to our Teaching Assistant Dewansh Chandel for his valuable support and feedback.\nThis project would not have been possible without the open datasets and tools that enabled us to explore data visualization with Flourish."
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Visualization Tutorials",
+    "section": "",
+    "text": "Tutorials\nExplore different types of Flourish visualizations by selecting a tutorial below.\n\n\n\nColumn Chart\n\n\n\nPictograph\n\n\n\nPie Chart\n\n\n\nScatter Plot\n\n\n\nBar Race Chart\n\n\n\nLine Chart\n\n\n\nMap Visualization\n\n\n\nRadar Chart"
   }
 ]

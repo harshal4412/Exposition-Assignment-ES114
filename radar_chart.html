@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>blog – Exposition Assignment - ES114</title>
+<title>Radar Chart Tutorial – Exposition Assignment - ES114</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -133,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">blog</h1>
+<h1 class="title">Radar Chart Tutorial</h1>
 </div>
 
 
@@ -150,11 +150,198 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="quarto" class="level2">
-<h2 class="anchored" data-anchor-id="quarto">Quarto</h2>
-<p>Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <a href="https://quarto.org" class="uri">https://quarto.org</a>.</p>
+<section id="radar-chart-cristiano-ronaldo-vs-lionel-messi" class="level1">
+<h1><span class="text-primary fw-bold">Radar Chart: Cristiano Ronaldo vs Lionel Messi</span></h1>
+<p class="lead">
+In this tutorial, we will create a <mark>Radar Chart</mark> to compare the football skills of <span class="fw-bold text-success">Cristiano Ronaldo</span> and <span class="fw-bold text-danger">Lionel Messi</span> in five key attributes.
+</p>
+<p>
+The data has been sourced from <a href="https://www.fifaindex.com/" class="text-info fw-bold">FIFA Index</a>, a reliable database of FIFA player ratings.
+</p>
+<section id="attributes-compared" class="level2">
+<h2 class="anchored" data-anchor-id="attributes-compared"><span class="text-warning fw-bold">Attributes Compared:</span></h2>
+<ul>
+<li><span class="text-success fw-bold">Ball Control</span><br>
+</li>
+<li><span class="text-danger fw-bold">Dribbling</span><br>
+</li>
+<li><span class="text-primary fw-bold">Physical</span><br>
+</li>
+<li><span class="text-warning fw-bold">Shooting</span><br>
+</li>
+<li><span class="text-info fw-bold">Passing</span></li>
+</ul>
+<hr>
+</section>
+<section id="step-1-collect-prepare-data" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-collect-prepare-data"><span class="text-primary fw-bold">Step 1: Collect &amp; Prepare Data</span></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/radar_chart_step1.png" class="img-fluid figure-img"></p>
+<figcaption>Step 1</figcaption>
+</figure>
+</div>
+<ul>
+<li>Visit <a href="https://www.fifaindex.com/" class="text-info fw-bold">FIFA Index</a> to collect the latest player statistics.<br>
+</li>
+<li>Extract values for <strong>Ball Control, Dribbling, Physical, Shooting, and Passing</strong>.<br>
+</li>
+<li>Structure the dataset as follows:</li>
+</ul>
+<div class="table-responsive shadow-lg rounded">
+<table class="table table-bordered text-center">
+<thead class="table-dark">
+<tr>
+<th>
+Player
+</th>
+<th>
+Ball Control
+</th>
+<th>
+Dribbling
+</th>
+<th>
+Physical
+</th>
+<th>
+Shooting
+</th>
+<th>
+Passing
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="fw-bold text-success">
+Cristiano Ronaldo
+</td>
+<td>
+90
+</td>
+<td>
+85
+</td>
+<td>
+88
+</td>
+<td>
+95
+</td>
+<td>
+80
+</td>
+</tr>
+<tr>
+<td class="fw-bold text-danger">
+Lionel Messi
+</td>
+<td>
+94
+</td>
+<td>
+96
+</td>
+<td>
+72
+</td>
+<td>
+91
+</td>
+<td>
+92
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr>
+</section>
+<section id="step-1-choose-radar-chart" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-choose-radar-chart"><span class="text-primary fw-bold">Step 1: Choose Radar Chart</span></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/radar_chart_step1.png" class="img-fluid figure-img"></p>
+<figcaption>Step 1</figcaption>
+</figure>
+</div>
+<ul>
+<li>Open <a href="https://flourish.studio/" class="text-info fw-bold">Flourish</a> and create a new <strong>Radar Chart</strong>.<br>
+</li>
+<li>Upload the dataset as an Excel or CSV file.</li>
+</ul>
+<hr>
+</section>
+<section id="step-2-configure-data-mapping" class="level2">
+<h2 class="anchored" data-anchor-id="step-2-configure-data-mapping"><span class="text-primary fw-bold">Step 2: Configure Data Mapping</span></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/radar_chart_step2.png" class="img-fluid figure-img"></p>
+<figcaption>Step 2</figcaption>
+</figure>
+</div>
+<ul>
+<li>Set <strong>Player Name</strong> as the <strong>Legend</strong>.<br>
+</li>
+<li>Assign attributes (<strong>Ball Control, Dribbling, etc.</strong>) to the <strong>Radar Axes</strong>.</li>
+</ul>
+<hr>
+</section>
+<section id="step-3-customize-chart-appearance" class="level2">
+<h2 class="anchored" data-anchor-id="step-3-customize-chart-appearance"><span class="text-primary fw-bold">Step 3: Customize Chart Appearance</span></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/radar_chart_step3.png" class="img-fluid figure-img"></p>
+<figcaption>Step 3</figcaption>
+</figure>
+</div>
+<ul>
+<li>Adjust <strong>line thickness and colors</strong> for better contrast.<br>
+</li>
+<li>Enable <strong>tooltips</strong> to display attribute values.<br>
+</li>
+<li>Add a <strong>title and labels</strong> for clarity.</li>
+</ul>
+<hr>
+</section>
+<section id="step-4-publish-embed" class="level2">
+<h2 class="anchored" data-anchor-id="step-4-publish-embed"><span class="text-primary fw-bold">Step 4: Publish &amp; Embed</span></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/slide3.png" class="img-fluid figure-img"></p>
+<figcaption>Step 4</figcaption>
+</figure>
+</div>
+<ul>
+<li>Click <span class="fw-bold text-success">Publish &amp; Export</span>.<br>
+</li>
+<li>Copy the <strong>Embed URL</strong>.</li>
+</ul>
+<hr>
+</section>
+<section id="final-radar-chart" class="level2">
+<h2 class="anchored" data-anchor-id="final-radar-chart"><span class="text-primary fw-bold">Final Radar Chart</span></h2>
+<div class="flourish-embed flourish-radar shadow-lg rounded border" data-src="visualisation/21770127">
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+<p><noscript><img src="https://public.flourish.studio/visualisation/21770127/thumbnail" width="100%" alt="radar visualization"></noscript></p>
+</div>
+<hr>
+</section>
+<section id="why-use-a-radar-chart" class="level2">
+<h2 class="anchored" data-anchor-id="why-use-a-radar-chart"><span class="text-warning fw-bold">Why Use a Radar Chart?</span></h2>
+<ul>
+<li>Displays <strong>multi-dimensional</strong> data in a single view.<br>
+</li>
+<li>Helps compare <strong>strengths and weaknesses</strong> across attributes.<br>
+</li>
+<li>Useful for <strong>sports analytics &amp; player performance comparisons</strong>.</li>
+</ul>
+<hr>
+<p><span class="fw-bold text-success">Your radar chart is now ready to be shared!</span></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

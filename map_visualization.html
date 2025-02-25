@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>blog – Exposition Assignment - ES114</title>
+<title>Map Visualization Tutorial – Exposition Assignment - ES114</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -133,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">blog</h1>
+<h1 class="title">Map Visualization Tutorial</h1>
 </div>
 
 
@@ -150,11 +150,76 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="quarto" class="level2">
-<h2 class="anchored" data-anchor-id="quarto">Quarto</h2>
-<p>Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <a href="https://quarto.org" class="uri">https://quarto.org</a>.</p>
+<section id="map-visualization-so₂-concentrations-in-india" class="level1">
+<h1><span class="text-primary fw-bold">Map Visualization: SO₂ Concentrations in India</span></h1>
+<p class="lead">
+We’ll be creating a <mark>Map Visualization</mark> to represent <strong>SO₂ levels across different locations in India</strong>.
+</p>
+<hr>
+<section id="step-1-upload-data-to-flourish" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-upload-data-to-flourish"><span class="text-warning fw-bold">Step 1: Upload Data to Flourish</span></h2>
+<p><img src="images/map_visualization_step1.png" class="img-fluid" alt="Step 1"><br>
+- Open <a href="https://flourish.studio/" class="text-info fw-bold">Flourish</a> and select <strong>3D Map &gt; Heat Map</strong>.<br>
+- Upload your dataset.</p>
+<hr>
+</section>
+<section id="step-2-prepare-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="step-2-prepare-the-data"><span class="text-primary fw-bold">Step 2: Prepare the Data</span></h2>
+<p><img src="images/map_visualization_step2.png" class="img-fluid" alt="Step 2"><br>
+- Load the dataset and extract relevant columns:<br>
+- <strong>Latitude</strong><br>
+- <strong>Longitude</strong><br>
+- <strong>SO₂ Concentration (µg/m³)</strong><br>
+- Ensure the data is cleaned and formatted correctly.</p>
+<hr>
+</section>
+<section id="step-3-configure-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="step-3-configure-the-data"><span class="text-primary fw-bold">Step 3: Configure the Data</span></h2>
+<p><img src="images/map_visualization_step3.png" class="img-fluid" alt="Step 3"><br>
+- In the points section, set the ‘Appearance’ as points.<br>
+- Set <strong>Latitude and Longitude</strong> as location points.<br>
+- Set <strong>SO₂ Concentration</strong> as the <strong>circle size</strong> to represent pollution levels.<br>
+- Choose a <strong>color scale</strong> to indicate severity (e.g., yellow for low, red for high).</p>
+<hr>
+</section>
+<section id="step-4-customize-appearance" class="level2">
+<h2 class="anchored" data-anchor-id="step-4-customize-appearance"><span class="text-primary fw-bold">Step 4: Customize Appearance</span></h2>
+<p><img src="images/map_visualization_step4.png" class="img-fluid" alt="Step 4"><br>
+- Adjust <strong>circle opacity, size scaling, and tooltips</strong> for clarity.<br>
+- Add a <strong>legend</strong> to show the pollution scale.<br>
+- Set an appropriate <strong>base map style</strong>.</p>
+<hr>
+</section>
+<section id="step-5-publish-and-embed" class="level2">
+<h2 class="anchored" data-anchor-id="step-5-publish-and-embed"><span class="text-primary fw-bold">Step 5: Publish and Embed</span></h2>
+<p><img src="images/slide3.png" class="img-fluid" alt="Step 5"><br>
+- Click <strong>“Publish &amp; Export”</strong> in Flourish.<br>
+- Copy the <strong>Embed URL</strong>.</p>
+<hr>
+</section>
+<section id="final-circle-map" class="level2">
+<h2 class="anchored" data-anchor-id="final-circle-map"><span class="text-primary fw-bold">Final Circle Map</span></h2>
+<div class="flourish-embed flourish-map shadow-lg rounded border" data-src="visualisation/21734829">
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+<p><noscript><img src="https://public.flourish.studio/visualisation/21734829/thumbnail" width="100%" alt="map visualization"></noscript></p>
+</div>
+<hr>
+</section>
+<section id="why-use-a-circle-map-for-so₂-concentrations" class="level2">
+<h2 class="anchored" data-anchor-id="why-use-a-circle-map-for-so₂-concentrations"><span class="text-warning fw-bold">Why Use a Circle Map for SO₂ Concentrations?</span></h2>
+<ul>
+<li>Represents <strong>pollution hotspots</strong> geographically.<br>
+</li>
+<li>Clear <strong>size scaling</strong> shows pollution severity at each location.<br>
+</li>
+<li>Provides a <strong>spatial understanding</strong> of SO₂ distribution across India.<br>
+</li>
+<li>Makes trends in <strong>urban vs rural pollution</strong> more visible.</li>
+</ul>
+<hr>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

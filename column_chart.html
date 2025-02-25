@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>blog – Exposition Assignment - ES114</title>
+<title>Grouped Column Chart Tutorial – Exposition Assignment - ES114</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -133,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">blog</h1>
+<h1 class="title">Grouped Column Chart Tutorial</h1>
 </div>
 
 
@@ -150,11 +150,102 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="quarto" class="level2">
-<h2 class="anchored" data-anchor-id="quarto">Quarto</h2>
-<p>Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <a href="https://quarto.org" class="uri">https://quarto.org</a>.</p>
+<section id="grouped-column-chart-tutorial" class="level1">
+<h1><span class="text-primary fw-bold">Grouped Column Chart Tutorial</span></h1>
+<p class="lead">
+Learn how to create a <mark>Grouped Column Chart</mark> using <a href="https://flourish.studio/" class="text-info fw-bold">Flourish</a>.
+</p>
+<hr>
+<section id="dataset-used" class="level2">
+<h2 class="anchored" data-anchor-id="dataset-used"><span class="text-warning fw-bold">Dataset Used</span></h2>
+<p>We are using the <a href="https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction" class="text-info fw-bold">Food Delivery Time Prediction dataset</a>, which contains order time, distance, and delivery duration.</p>
+<hr>
+</section>
+<section id="step-1-import-the-dataset" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-import-the-dataset"><span class="text-primary fw-bold">Step 1: Import the Dataset</span></h2>
+<p>Download the dataset from<br>
+<a href="https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction" class="text-info fw-bold">Kaggle</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/dataset_preview.png" class="img-fluid figure-img"></p>
+<figcaption>Dataset Preview</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="step-2-open-flourish-upload-data" class="level2">
+<h2 class="anchored" data-anchor-id="step-2-open-flourish-upload-data"><span class="text-primary fw-bold">Step 2: Open Flourish &amp; Upload Data</span></h2>
+<ul>
+<li>Go to <a href="https://flourish.studio/" class="text-info fw-bold">Flourish</a>.<br>
+</li>
+<li>Click <strong>“New visualization”</strong> → Choose <strong>Column Chart</strong></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/rangeoftemp.png" class="img-fluid figure-img"></p>
+<figcaption>Flourish Interface</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="step-3-configure-axes-groups" class="level2">
+<h2 class="anchored" data-anchor-id="step-3-configure-axes-groups"><span class="text-primary fw-bold">Step 3: Configure Axes &amp; Groups</span></h2>
+<ul>
+<li><span class="text-success fw-bold">X-axis</span> → <code>Time of Day</code><br>
+</li>
+<li><span class="text-success fw-bold">Y-axis</span> → <code>Time</code> &amp; <code>Distance</code><br>
+</li>
+<li><span class="text-success fw-bold">Group by</span> → <code>Delivery Type</code></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/settings_panel.png" class="img-fluid figure-img"></p>
+<figcaption>Settings Panel</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="step-4-customize-the-chart" class="level2">
+<h2 class="anchored" data-anchor-id="step-4-customize-the-chart"><span class="text-primary fw-bold">Step 4: Customize the Chart</span></h2>
+<ul>
+<li>Adjust <strong>colors</strong>, <strong>labels</strong>, and <strong>grid lines</strong> for better readability.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/styled_chart.png" class="img-fluid figure-img"></p>
+<figcaption>Styled Chart</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="step-5-publish-share" class="level2">
+<h2 class="anchored" data-anchor-id="step-5-publish-share"><span class="text-primary fw-bold">Step 5: Publish &amp; Share</span></h2>
+<ul>
+<li>Click <strong>“Export &amp; Publish”</strong>.</li>
+<li>Embed the chart on your website.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/final_chart.png" class="img-fluid figure-img"></p>
+<figcaption>Final Chart</figcaption>
+</figure>
+</div>
+<div class="flourish-embed flourish-chart shadow-lg rounded border" data-src="visualisation/21759601">
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+<p><noscript><img src="https://public.flourish.studio/visualisation/21759601/thumbnail" width="100%" alt="chart visualization"></noscript></p>
+</div>
+<hr>
+</section>
+<section id="why-use-a-grouped-column-chart" class="level2">
+<h2 class="anchored" data-anchor-id="why-use-a-grouped-column-chart"><span class="text-warning fw-bold">Why Use a Grouped Column Chart?</span></h2>
+<ul>
+<li>Compares multiple variables like time and distance in deliveries.<br>
+</li>
+<li>Helps analyze patterns by time of day for delivery efficiency.</li>
+</ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
